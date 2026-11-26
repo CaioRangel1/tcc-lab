@@ -1,0 +1,35 @@
+{
+  "realm": "tcc",
+  "enabled": true,
+  "accessTokenLifespan": 900,
+  "clients": [
+    {
+      "clientId": "operador-cli",
+      "name": "Estação de trabalho do operador",
+      "enabled": true,
+      "publicClient": true,
+      "directAccessGrantsEnabled": true,
+      "standardFlowEnabled": false
+    }
+  ],
+  "users": [
+    {
+      "username": "operador1",
+      "enabled": true,
+      "email": "operador1@lab.local",
+      "emailVerified": true,
+      "firstName": "Operador",
+      "lastName": "Um",
+      "credentials": [{ "type": "password", "value": "Senha@123", "temporary": false }]
+    },
+    {
+      "username": "operador2",
+      "enabled": true,
+      "email": "operador2@lab.local",
+      "emailVerified": true,
+      "firstName": "Operador",
+      "lastName": "Dois",
+      "credentials": [{ "type": "password", "value": "Senha@456", "temporary": false }]
+    }
+  ]
+}

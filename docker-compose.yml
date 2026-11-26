@@ -1,0 +1,77 @@
+# Laboratório do TCC - Controles zero trust contra ameaças internas
+# O modo de operação (perimetro ou zero_trust) é definido no arquivo .env
+
+services:
+
+  # Gera a CA do lab e os certificados do servidor e das estações (roda e encerra)
+  certgen:
+    image: alpine:3.20
+    volumes:
+      - ./certs:/certs
+      - ./scripts:/scripts:ro
+    command: sh -c "apk add --no-cache openssl >/dev/null && sh /scripts/gen_certs.sh"
+
+  # Provedor de identidade (PA): login dos operadores e emissão de tokens
+  keycloak:
+    image: quay.io/keycloak/keycloak:26.0
+    command: start-dev --import-realm
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: admin
+      KC_BOOTSTRAP_ADMIN_PASSWORD: admin
+    volumes:
+      - ./keycloak/realm-tcc.json:/opt/keycloak/data/import/realm-tcc.json:ro
+    ports:
+      - "8080:8080"
+
+  # Recurso protegido: API de transferências (não exposta fora da rede do Docker)
+  api:
+    build: ./api
+    environment:
+      SALDO_INICIAL: ${SALDO_INICIAL}
+
+  # Mecanismo de política (PE): avalia as regras de contexto escritas em Rego
+  opa:
+    image: openpolicyagent/opa:1.0.0
+    command: ["run", "--server", "--addr=0.0.0.0:8181", "/politicas"]
+    volumes:
+      - ./opa:/politicas:ro
+
+  # Ponto de aplicação de políticas (PEP)
+  gateway:
+    build: ./gateway
+    environment:
+      MODO: ${MODO}
+      HORA_SIMULADA: ${HORA_SIMULADA}
+      API_URL: http://api:8000
+      OPA_URL: http://opa:8181/v1/data/tcc/transferencias/decisao
+      KC_URL: http://keycloak:8080
+      KC_ISSUER: http://localhost:8080/realms/tcc
+      KC_CLIENT_ID: operador-cli
+      KC_ADMIN_USER: admin
+      KC_ADMIN_PASSWORD: admin
+      ARQUIVO_DISPOSITIVOS: /app/dispositivos.json
+      ARQUIVO_LIMITES: /app/limites.json
+    volumes:
+      - ./resultados:/data
+      - ./gateway/dispositivos.json:/app/dispositivos.json:ro
+      - ./opa/data.json:/app/limites.json:ro
+    depends_on:
+      - api
+      - keycloak
+      - opa
+
+  # TLS na frente do gateway. A configuração muda conforme o modo:
+  #   nginx-perimetro.conf  -> TLS comum
+  #   nginx-zero_trust.conf -> mTLS (exige certificado do dispositivo)
+  nginx:
+    image: nginx:1.27-alpine
+    volumes:
+      - ./nginx/nginx-${MODO}.conf:/etc/nginx/nginx.conf:ro
+      - ./certs:/etc/nginx/certs:ro
+    ports:
+      - "8443:443"
+    depends_on:
+      certgen:
+        condition: service_completed_successfully
+      gateway:
+        condition: service_started

@@ -1,0 +1,6 @@
+﻿cenario,nome_cenario,execucoes,enviadas_media,aceitas_media,aceitas_dp,valor_medio,valor_dp,tempo_medio_s,motivo_interrupcao
+C1,Perímetro: credencial válida,5,166.0,166.0,0.0,498000000.0,0.0,8.854800000000001,não houve
+C2,ZT: computador sem certificado,5,5.0,0.0,0.0,0.0,0.0,0.0456,certificado de dispositivo ausente ou inválido
+C3,ZT: estação de outro operador,5,5.0,0.0,0.0,0.0,0.0,0.23679999999999998,dispositivo não autorizado para operador1
+C4,"ZT: estação autorizada, madrugada",5,5.0,0.0,0.0,0.0,0.0,0.325,fora do horário permitido; valor da transação acima do limite
+C5,"ZT: ataque discreto, horário comercial",5,10.0,5.0,0.0,4500000.0,0.0,0.592,valor acumulado na janela acima do limite

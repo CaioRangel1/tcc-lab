@@ -1,0 +1,3 @@
+﻿cenario,nome_cenario,ordens,aceitas,latencia_media_ms,latencia_p95_ms,falsos_positivos,taxa_falsos_positivos_%
+L1,Perímetro: uso legítimo,150,150,50.78406666666667,55.964999999999996,0,0.0
+L2,ZT: uso legítimo,150,150,54.42393333333334,60.644,0,0.0

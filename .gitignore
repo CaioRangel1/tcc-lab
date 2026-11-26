@@ -1,0 +1,12 @@
+# Certificados e chaves privadas são gerados localmente (nunca publicar)
+certs/*
+!certs/.gitkeep
+
+# Resultados: publica apenas o experimento oficial usado no TCC
+resultados/*
+!resultados/.gitkeep
+!resultados/experimento_20261110_141349/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc

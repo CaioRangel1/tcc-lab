@@ -1,0 +1,12 @@
+{
+  "limites": {
+    "_descricao": "Parâmetros da autorização contextual. Valores iniciais, a calibrar com o perfil de uso legítimo (passo 4).",
+    "valor_maximo_transacao": 1000000,
+    "janela_segundos": 600,
+    "valor_maximo_janela": 5000000,
+    "quantidade_maxima_janela": 20,
+    "inicio_operacao": "06:30",
+    "fim_operacao": "18:30",
+    "negacoes_para_bloqueio": 3
+  }
+}

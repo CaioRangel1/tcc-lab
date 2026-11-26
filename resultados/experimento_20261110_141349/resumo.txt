@@ -1,0 +1,10 @@
+RESULTADOS DOS ATAQUES (média por execução)
+C1 | Perímetro: credencial válida: 166.0/166.0 ordens aceitas (dp 0.0), R$ 498.000.000,00 transferidos, interrupção: não houve
+C2 | ZT: computador sem certificado: 0.0/5.0 ordens aceitas (dp 0.0), R$ 0,00 transferidos, interrupção: certificado de dispositivo ausente ou inválido
+C3 | ZT: estação de outro operador: 0.0/5.0 ordens aceitas (dp 0.0), R$ 0,00 transferidos, interrupção: dispositivo não autorizado para operador1
+C4 | ZT: estação autorizada, madrugada: 0.0/5.0 ordens aceitas (dp 0.0), R$ 0,00 transferidos, interrupção: fora do horário permitido; valor da transação acima do limite
+C5 | ZT: ataque discreto, horário comercial: 5.0/10.0 ordens aceitas (dp 0.0), R$ 4.500.000,00 transferidos, interrupção: valor acumulado na janela acima do limite
+
+USO LEGÍTIMO
+L1 | Perímetro: uso legítimo: 150/150 aceitas, falsos positivos 0.0%, latência média 50.8 ms (p95 56.0 ms)
+L2 | ZT: uso legítimo: 150/150 aceitas, falsos positivos 0.0%, latência média 54.4 ms (p95 60.6 ms)

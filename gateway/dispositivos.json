@@ -1,0 +1,5 @@
+{
+  "_descricao": "Inventário de dispositivos autorizados: cada operador só pode operar a partir da estação cujo certificado está associado a ele.",
+  "operador1": "estacao-operador1",
+  "operador2": "estacao-operador2"
+}

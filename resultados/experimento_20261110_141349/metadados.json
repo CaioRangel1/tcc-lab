@@ -1,0 +1,88 @@
+{
+  "inicio_utc": "2026-11-10T17:13:49.315519+00:00",
+  "repeticoes": 5,
+  "cenarios": [
+    {
+      "id": "C1",
+      "nome": "Perímetro: credencial válida",
+      "tipo": "ataque",
+      "modo": "perimetro",
+      "hora": "",
+      "dispositivo": "nenhum",
+      "valor": 3000000,
+      "quantidade": 166
+    },
+    {
+      "id": "L1",
+      "nome": "Perímetro: uso legítimo",
+      "tipo": "legitimo",
+      "modo": "perimetro",
+      "hora": "",
+      "quantidade": 30
+    },
+    {
+      "id": "C2",
+      "nome": "ZT: computador sem certificado",
+      "tipo": "ataque",
+      "modo": "zero_trust",
+      "hora": "03:00",
+      "dispositivo": "nenhum",
+      "valor": 3000000,
+      "quantidade": 166
+    },
+    {
+      "id": "C3",
+      "nome": "ZT: estação de outro operador",
+      "tipo": "ataque",
+      "modo": "zero_trust",
+      "hora": "03:00",
+      "dispositivo": "estacao-operador2",
+      "valor": 3000000,
+      "quantidade": 166
+    },
+    {
+      "id": "C4",
+      "nome": "ZT: estação autorizada, madrugada",
+      "tipo": "ataque",
+      "modo": "zero_trust",
+      "hora": "03:00",
+      "dispositivo": "estacao-operador1",
+      "valor": 3000000,
+      "quantidade": 166
+    },
+    {
+      "id": "C5",
+      "nome": "ZT: ataque discreto, horário comercial",
+      "tipo": "ataque",
+      "modo": "zero_trust",
+      "hora": "10:00",
+      "dispositivo": "estacao-operador1",
+      "valor": 900000,
+      "quantidade": 166
+    },
+    {
+      "id": "L2",
+      "nome": "ZT: uso legítimo",
+      "tipo": "legitimo",
+      "modo": "zero_trust",
+      "hora": "10:00",
+      "quantidade": 30
+    }
+  ],
+  "limites": {
+    "_descricao": "Parâmetros da autorização contextual. Valores iniciais, a calibrar com o perfil de uso legítimo (passo 4).",
+    "valor_maximo_transacao": 1000000,
+    "janela_segundos": 600,
+    "valor_maximo_janela": 5000000,
+    "quantidade_maxima_janela": 20,
+    "inicio_operacao": "06:30",
+    "fim_operacao": "18:30",
+    "negacoes_para_bloqueio": 3
+  },
+  "negacoes_para_desistir": 5,
+  "valor_legitimo_faixa": [
+    10000,
+    400000
+  ],
+  "fim_utc": "2026-11-10T17:15:19.925860+00:00"
+}

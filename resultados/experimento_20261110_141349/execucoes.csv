@@ -1,0 +1,1256 @@
+cenario,nome_cenario,tipo,modo,hora_simulada,repeticao,ordem,usuario,dispositivo,valor,status,aceita,motivo,total_transferido,tempo_s,latencia_ms
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,1,operador1,nenhum,3000000,201,1,,3000000.0,0.04,39.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,2,operador1,nenhum,3000000,201,1,,6000000.0,0.093,52.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,3,operador1,nenhum,3000000,201,1,,9000000.0,0.147,54.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,4,operador1,nenhum,3000000,201,1,,12000000.0,0.199,52.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,5,operador1,nenhum,3000000,201,1,,15000000.0,0.256,57.3
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,6,operador1,nenhum,3000000,201,1,,18000000.0,0.311,54.79
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,7,operador1,nenhum,3000000,201,1,,21000000.0,0.363,51.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,8,operador1,nenhum,3000000,201,1,,24000000.0,0.415,52.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,9,operador1,nenhum,3000000,201,1,,27000000.0,0.473,57.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,10,operador1,nenhum,3000000,201,1,,30000000.0,0.528,55.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,11,operador1,nenhum,3000000,201,1,,33000000.0,0.583,55.16
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,12,operador1,nenhum,3000000,201,1,,36000000.0,0.636,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,13,operador1,nenhum,3000000,201,1,,39000000.0,0.687,51.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,14,operador1,nenhum,3000000,201,1,,42000000.0,0.74,52.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,15,operador1,nenhum,3000000,201,1,,45000000.0,0.791,51.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,16,operador1,nenhum,3000000,201,1,,48000000.0,0.843,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,17,operador1,nenhum,3000000,201,1,,51000000.0,0.897,53.69
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,18,operador1,nenhum,3000000,201,1,,54000000.0,0.951,53.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,19,operador1,nenhum,3000000,201,1,,57000000.0,1.003,51.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,20,operador1,nenhum,3000000,201,1,,60000000.0,1.057,53.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,21,operador1,nenhum,3000000,201,1,,63000000.0,1.111,54.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,22,operador1,nenhum,3000000,201,1,,66000000.0,1.165,54.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,23,operador1,nenhum,3000000,201,1,,69000000.0,1.219,54.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,24,operador1,nenhum,3000000,201,1,,72000000.0,1.273,53.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,25,operador1,nenhum,3000000,201,1,,75000000.0,1.329,56.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,26,operador1,nenhum,3000000,201,1,,78000000.0,1.383,53.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,27,operador1,nenhum,3000000,201,1,,81000000.0,1.436,53.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,28,operador1,nenhum,3000000,201,1,,84000000.0,1.496,59.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,29,operador1,nenhum,3000000,201,1,,87000000.0,1.552,56.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,30,operador1,nenhum,3000000,201,1,,90000000.0,1.608,55.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,31,operador1,nenhum,3000000,201,1,,93000000.0,1.659,50.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,32,operador1,nenhum,3000000,201,1,,96000000.0,1.711,52.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,33,operador1,nenhum,3000000,201,1,,99000000.0,1.763,51.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,34,operador1,nenhum,3000000,201,1,,102000000.0,1.815,51.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,35,operador1,nenhum,3000000,201,1,,105000000.0,1.866,51.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,36,operador1,nenhum,3000000,201,1,,108000000.0,1.918,52.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,37,operador1,nenhum,3000000,201,1,,111000000.0,1.974,55.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,38,operador1,nenhum,3000000,201,1,,114000000.0,2.028,54.43
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,39,operador1,nenhum,3000000,201,1,,117000000.0,2.084,55.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,40,operador1,nenhum,3000000,201,1,,120000000.0,2.134,50.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,41,operador1,nenhum,3000000,201,1,,123000000.0,2.189,54.35
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,42,operador1,nenhum,3000000,201,1,,126000000.0,2.243,54.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,43,operador1,nenhum,3000000,201,1,,129000000.0,2.295,52.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,44,operador1,nenhum,3000000,201,1,,132000000.0,2.349,53.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,45,operador1,nenhum,3000000,201,1,,135000000.0,2.403,54.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,46,operador1,nenhum,3000000,201,1,,138000000.0,2.455,52.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,47,operador1,nenhum,3000000,201,1,,141000000.0,2.507,51.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,48,operador1,nenhum,3000000,201,1,,144000000.0,2.559,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,49,operador1,nenhum,3000000,201,1,,147000000.0,2.611,51.85
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,50,operador1,nenhum,3000000,201,1,,150000000.0,2.665,54.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,51,operador1,nenhum,3000000,201,1,,153000000.0,2.719,53.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,52,operador1,nenhum,3000000,201,1,,156000000.0,2.771,52.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,53,operador1,nenhum,3000000,201,1,,159000000.0,2.824,53.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,54,operador1,nenhum,3000000,201,1,,162000000.0,2.88,55.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,55,operador1,nenhum,3000000,201,1,,165000000.0,2.93,50.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,56,operador1,nenhum,3000000,201,1,,168000000.0,2.982,52.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,57,operador1,nenhum,3000000,201,1,,171000000.0,3.037,54.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,58,operador1,nenhum,3000000,201,1,,174000000.0,3.091,54.36
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,59,operador1,nenhum,3000000,201,1,,177000000.0,3.143,51.62
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,60,operador1,nenhum,3000000,201,1,,180000000.0,3.194,51.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,61,operador1,nenhum,3000000,201,1,,183000000.0,3.249,54.46
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,62,operador1,nenhum,3000000,201,1,,186000000.0,3.303,54.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,63,operador1,nenhum,3000000,201,1,,189000000.0,3.357,53.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,64,operador1,nenhum,3000000,201,1,,192000000.0,3.411,53.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,65,operador1,nenhum,3000000,201,1,,195000000.0,3.463,52.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,66,operador1,nenhum,3000000,201,1,,198000000.0,3.514,50.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,67,operador1,nenhum,3000000,201,1,,201000000.0,3.567,53.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,68,operador1,nenhum,3000000,201,1,,204000000.0,3.62,52.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,69,operador1,nenhum,3000000,201,1,,207000000.0,3.675,54.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,70,operador1,nenhum,3000000,201,1,,210000000.0,3.728,53.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,71,operador1,nenhum,3000000,201,1,,213000000.0,3.783,54.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,72,operador1,nenhum,3000000,201,1,,216000000.0,3.838,55.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,73,operador1,nenhum,3000000,201,1,,219000000.0,3.89,51.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,74,operador1,nenhum,3000000,201,1,,222000000.0,3.944,53.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,75,operador1,nenhum,3000000,201,1,,225000000.0,3.994,50.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,76,operador1,nenhum,3000000,201,1,,228000000.0,4.046,52.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,77,operador1,nenhum,3000000,201,1,,231000000.0,4.106,59.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,78,operador1,nenhum,3000000,201,1,,234000000.0,4.162,55.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,79,operador1,nenhum,3000000,201,1,,237000000.0,4.216,54.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,80,operador1,nenhum,3000000,201,1,,240000000.0,4.271,54.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,81,operador1,nenhum,3000000,201,1,,243000000.0,4.323,52.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,82,operador1,nenhum,3000000,201,1,,246000000.0,4.375,51.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,83,operador1,nenhum,3000000,201,1,,249000000.0,4.427,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,84,operador1,nenhum,3000000,201,1,,252000000.0,4.481,53.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,85,operador1,nenhum,3000000,201,1,,255000000.0,4.535,54.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,86,operador1,nenhum,3000000,201,1,,258000000.0,4.587,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,87,operador1,nenhum,3000000,201,1,,261000000.0,4.638,51.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,88,operador1,nenhum,3000000,201,1,,264000000.0,4.691,52.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,89,operador1,nenhum,3000000,201,1,,267000000.0,4.746,55.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,90,operador1,nenhum,3000000,201,1,,270000000.0,4.8,54.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,91,operador1,nenhum,3000000,201,1,,273000000.0,4.855,54.16
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,92,operador1,nenhum,3000000,201,1,,276000000.0,4.907,52.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,93,operador1,nenhum,3000000,201,1,,279000000.0,4.964,56.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,94,operador1,nenhum,3000000,201,1,,282000000.0,5.021,56.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,95,operador1,nenhum,3000000,201,1,,285000000.0,5.076,54.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,96,operador1,nenhum,3000000,201,1,,288000000.0,5.127,51.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,97,operador1,nenhum,3000000,201,1,,291000000.0,5.186,59.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,98,operador1,nenhum,3000000,201,1,,294000000.0,5.239,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,99,operador1,nenhum,3000000,201,1,,297000000.0,5.29,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,100,operador1,nenhum,3000000,201,1,,300000000.0,5.343,52.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,101,operador1,nenhum,3000000,201,1,,303000000.0,5.4,56.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,102,operador1,nenhum,3000000,201,1,,306000000.0,5.45,50.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,103,operador1,nenhum,3000000,201,1,,309000000.0,5.504,53.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,104,operador1,nenhum,3000000,201,1,,312000000.0,5.558,54.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,105,operador1,nenhum,3000000,201,1,,315000000.0,5.611,52.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,106,operador1,nenhum,3000000,201,1,,318000000.0,5.664,53.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,107,operador1,nenhum,3000000,201,1,,321000000.0,5.718,54.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,108,operador1,nenhum,3000000,201,1,,324000000.0,5.77,51.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,109,operador1,nenhum,3000000,201,1,,327000000.0,5.824,53.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,110,operador1,nenhum,3000000,201,1,,330000000.0,5.874,50.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,111,operador1,nenhum,3000000,201,1,,333000000.0,5.928,53.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,112,operador1,nenhum,3000000,201,1,,336000000.0,5.978,50.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,113,operador1,nenhum,3000000,201,1,,339000000.0,6.03,52.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,114,operador1,nenhum,3000000,201,1,,342000000.0,6.083,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,115,operador1,nenhum,3000000,201,1,,345000000.0,6.135,52.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,116,operador1,nenhum,3000000,201,1,,348000000.0,6.189,53.34
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,117,operador1,nenhum,3000000,201,1,,351000000.0,6.261,72.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,118,operador1,nenhum,3000000,201,1,,354000000.0,6.316,55.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,119,operador1,nenhum,3000000,201,1,,357000000.0,6.372,55.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,120,operador1,nenhum,3000000,201,1,,360000000.0,6.428,55.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,121,operador1,nenhum,3000000,201,1,,363000000.0,6.483,55.62
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,122,operador1,nenhum,3000000,201,1,,366000000.0,6.578,94.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,123,operador1,nenhum,3000000,201,1,,369000000.0,6.6,21.46
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,124,operador1,nenhum,3000000,201,1,,372000000.0,6.654,54.63
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,125,operador1,nenhum,3000000,201,1,,375000000.0,6.708,53.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,126,operador1,nenhum,3000000,201,1,,378000000.0,6.762,53.8
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,127,operador1,nenhum,3000000,201,1,,381000000.0,6.814,51.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,128,operador1,nenhum,3000000,201,1,,384000000.0,6.868,54.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,129,operador1,nenhum,3000000,201,1,,387000000.0,6.924,55.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,130,operador1,nenhum,3000000,201,1,,390000000.0,6.978,54.58
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,131,operador1,nenhum,3000000,201,1,,393000000.0,7.03,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,132,operador1,nenhum,3000000,201,1,,396000000.0,7.082,51.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,133,operador1,nenhum,3000000,201,1,,399000000.0,7.135,53.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,134,operador1,nenhum,3000000,201,1,,402000000.0,7.187,51.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,135,operador1,nenhum,3000000,201,1,,405000000.0,7.238,51.3
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,136,operador1,nenhum,3000000,201,1,,408000000.0,7.29,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,137,operador1,nenhum,3000000,201,1,,411000000.0,7.342,51.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,138,operador1,nenhum,3000000,201,1,,414000000.0,7.395,52.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,139,operador1,nenhum,3000000,201,1,,417000000.0,7.446,51.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,140,operador1,nenhum,3000000,201,1,,420000000.0,7.499,52.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,141,operador1,nenhum,3000000,201,1,,423000000.0,7.55,51.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,142,operador1,nenhum,3000000,201,1,,426000000.0,7.602,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,143,operador1,nenhum,3000000,201,1,,429000000.0,7.656,53.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,144,operador1,nenhum,3000000,201,1,,432000000.0,7.711,54.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,145,operador1,nenhum,3000000,201,1,,435000000.0,7.762,51.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,146,operador1,nenhum,3000000,201,1,,438000000.0,7.814,51.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,147,operador1,nenhum,3000000,201,1,,441000000.0,7.868,53.8
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,148,operador1,nenhum,3000000,201,1,,444000000.0,7.923,54.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,149,operador1,nenhum,3000000,201,1,,447000000.0,7.975,52.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,150,operador1,nenhum,3000000,201,1,,450000000.0,8.026,50.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,151,operador1,nenhum,3000000,201,1,,453000000.0,8.08,53.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,152,operador1,nenhum,3000000,201,1,,456000000.0,8.135,54.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,153,operador1,nenhum,3000000,201,1,,459000000.0,8.186,51.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,154,operador1,nenhum,3000000,201,1,,462000000.0,8.24,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,155,operador1,nenhum,3000000,201,1,,465000000.0,8.295,54.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,156,operador1,nenhum,3000000,201,1,,468000000.0,8.348,52.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,157,operador1,nenhum,3000000,201,1,,471000000.0,8.402,54.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,158,operador1,nenhum,3000000,201,1,,474000000.0,8.456,53.85
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,159,operador1,nenhum,3000000,201,1,,477000000.0,8.506,50.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,160,operador1,nenhum,3000000,201,1,,480000000.0,8.56,54.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,161,operador1,nenhum,3000000,201,1,,483000000.0,8.614,53.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,162,operador1,nenhum,3000000,201,1,,486000000.0,8.668,54.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,163,operador1,nenhum,3000000,201,1,,489000000.0,8.723,55.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,164,operador1,nenhum,3000000,201,1,,492000000.0,8.775,51.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,165,operador1,nenhum,3000000,201,1,,495000000.0,8.828,52.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,1,166,operador1,nenhum,3000000,201,1,,498000000.0,8.882,54.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,1,operador1,nenhum,3000000,201,1,,3000000.0,0.016,16.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,2,operador1,nenhum,3000000,201,1,,6000000.0,0.068,51.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,3,operador1,nenhum,3000000,201,1,,9000000.0,0.12,52.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,4,operador1,nenhum,3000000,201,1,,12000000.0,0.173,52.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,5,operador1,nenhum,3000000,201,1,,15000000.0,0.226,53.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,6,operador1,nenhum,3000000,201,1,,18000000.0,0.281,54.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,7,operador1,nenhum,3000000,201,1,,21000000.0,0.334,53.11
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,8,operador1,nenhum,3000000,201,1,,24000000.0,0.386,52.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,9,operador1,nenhum,3000000,201,1,,27000000.0,0.44,53.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,10,operador1,nenhum,3000000,201,1,,30000000.0,0.492,51.85
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,11,operador1,nenhum,3000000,201,1,,33000000.0,0.544,51.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,12,operador1,nenhum,3000000,201,1,,36000000.0,0.596,52.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,13,operador1,nenhum,3000000,201,1,,39000000.0,0.649,52.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,14,operador1,nenhum,3000000,201,1,,42000000.0,0.701,51.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,15,operador1,nenhum,3000000,201,1,,45000000.0,0.753,52.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,16,operador1,nenhum,3000000,201,1,,48000000.0,0.804,51.43
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,17,operador1,nenhum,3000000,201,1,,51000000.0,0.856,51.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,18,operador1,nenhum,3000000,201,1,,54000000.0,0.909,52.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,19,operador1,nenhum,3000000,201,1,,57000000.0,0.96,51.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,20,operador1,nenhum,3000000,201,1,,60000000.0,1.017,57.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,21,operador1,nenhum,3000000,201,1,,63000000.0,1.069,51.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,22,operador1,nenhum,3000000,201,1,,66000000.0,1.124,54.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,23,operador1,nenhum,3000000,201,1,,69000000.0,1.176,52.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,24,operador1,nenhum,3000000,201,1,,72000000.0,1.23,53.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,25,operador1,nenhum,3000000,201,1,,75000000.0,1.286,55.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,26,operador1,nenhum,3000000,201,1,,78000000.0,1.34,54.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,27,operador1,nenhum,3000000,201,1,,81000000.0,1.392,52.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,28,operador1,nenhum,3000000,201,1,,84000000.0,1.444,51.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,29,operador1,nenhum,3000000,201,1,,87000000.0,1.498,54.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,30,operador1,nenhum,3000000,201,1,,90000000.0,1.553,54.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,31,operador1,nenhum,3000000,201,1,,93000000.0,1.607,54.03
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,32,operador1,nenhum,3000000,201,1,,96000000.0,1.661,53.79
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,33,operador1,nenhum,3000000,201,1,,99000000.0,1.716,55.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,34,operador1,nenhum,3000000,201,1,,102000000.0,1.769,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,35,operador1,nenhum,3000000,201,1,,105000000.0,1.82,51.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,36,operador1,nenhum,3000000,201,1,,108000000.0,1.874,53.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,37,operador1,nenhum,3000000,201,1,,111000000.0,1.928,54.03
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,38,operador1,nenhum,3000000,201,1,,114000000.0,1.979,51.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,39,operador1,nenhum,3000000,201,1,,117000000.0,2.035,55.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,40,operador1,nenhum,3000000,201,1,,120000000.0,2.089,53.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,41,operador1,nenhum,3000000,201,1,,123000000.0,2.14,51.85
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,42,operador1,nenhum,3000000,201,1,,126000000.0,2.192,52.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,43,operador1,nenhum,3000000,201,1,,129000000.0,2.244,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,44,operador1,nenhum,3000000,201,1,,132000000.0,2.298,53.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,45,operador1,nenhum,3000000,201,1,,135000000.0,2.348,50.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,46,operador1,nenhum,3000000,201,1,,138000000.0,2.402,53.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,47,operador1,nenhum,3000000,201,1,,141000000.0,2.452,50.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,48,operador1,nenhum,3000000,201,1,,144000000.0,2.506,53.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,49,operador1,nenhum,3000000,201,1,,147000000.0,2.559,53.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,50,operador1,nenhum,3000000,201,1,,150000000.0,2.613,54.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,51,operador1,nenhum,3000000,201,1,,153000000.0,2.666,52.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,52,operador1,nenhum,3000000,201,1,,156000000.0,2.721,54.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,53,operador1,nenhum,3000000,201,1,,159000000.0,2.773,52.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,54,operador1,nenhum,3000000,201,1,,162000000.0,2.824,51.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,55,operador1,nenhum,3000000,201,1,,165000000.0,2.878,53.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,56,operador1,nenhum,3000000,201,1,,168000000.0,2.932,54.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,57,operador1,nenhum,3000000,201,1,,171000000.0,2.987,54.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,58,operador1,nenhum,3000000,201,1,,174000000.0,3.04,53.11
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,59,operador1,nenhum,3000000,201,1,,177000000.0,3.092,52.35
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,60,operador1,nenhum,3000000,201,1,,180000000.0,3.146,53.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,61,operador1,nenhum,3000000,201,1,,183000000.0,3.201,55.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,62,operador1,nenhum,3000000,201,1,,186000000.0,3.252,51.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,63,operador1,nenhum,3000000,201,1,,189000000.0,3.304,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,64,operador1,nenhum,3000000,201,1,,192000000.0,3.359,54.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,65,operador1,nenhum,3000000,201,1,,195000000.0,3.413,54.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,66,operador1,nenhum,3000000,201,1,,198000000.0,3.466,52.71
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,67,operador1,nenhum,3000000,201,1,,201000000.0,3.522,56.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,68,operador1,nenhum,3000000,201,1,,204000000.0,3.577,54.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,69,operador1,nenhum,3000000,201,1,,207000000.0,3.628,51.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,70,operador1,nenhum,3000000,201,1,,210000000.0,3.68,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,71,operador1,nenhum,3000000,201,1,,213000000.0,3.732,52.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,72,operador1,nenhum,3000000,201,1,,216000000.0,3.786,53.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,73,operador1,nenhum,3000000,201,1,,219000000.0,3.84,54.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,74,operador1,nenhum,3000000,201,1,,222000000.0,3.894,54.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,75,operador1,nenhum,3000000,201,1,,225000000.0,3.949,55.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,76,operador1,nenhum,3000000,201,1,,228000000.0,4.002,52.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,77,operador1,nenhum,3000000,201,1,,231000000.0,4.057,55.11
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,78,operador1,nenhum,3000000,201,1,,234000000.0,4.112,54.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,79,operador1,nenhum,3000000,201,1,,237000000.0,4.168,55.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,80,operador1,nenhum,3000000,201,1,,240000000.0,4.22,51.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,81,operador1,nenhum,3000000,201,1,,243000000.0,4.272,52.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,82,operador1,nenhum,3000000,201,1,,246000000.0,4.324,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,83,operador1,nenhum,3000000,201,1,,249000000.0,4.376,51.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,84,operador1,nenhum,3000000,201,1,,252000000.0,4.429,52.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,85,operador1,nenhum,3000000,201,1,,255000000.0,4.48,51.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,86,operador1,nenhum,3000000,201,1,,258000000.0,4.532,51.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,87,operador1,nenhum,3000000,201,1,,261000000.0,4.584,51.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,88,operador1,nenhum,3000000,201,1,,264000000.0,4.637,52.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,89,operador1,nenhum,3000000,201,1,,267000000.0,4.69,53.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,90,operador1,nenhum,3000000,201,1,,270000000.0,4.744,53.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,91,operador1,nenhum,3000000,201,1,,273000000.0,4.796,51.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,92,operador1,nenhum,3000000,201,1,,276000000.0,4.849,52.34
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,93,operador1,nenhum,3000000,201,1,,279000000.0,4.909,60.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,94,operador1,nenhum,3000000,201,1,,282000000.0,4.971,62.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,95,operador1,nenhum,3000000,201,1,,285000000.0,5.026,54.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,96,operador1,nenhum,3000000,201,1,,288000000.0,5.082,55.85
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,97,operador1,nenhum,3000000,201,1,,291000000.0,5.137,55.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,98,operador1,nenhum,3000000,201,1,,294000000.0,5.188,50.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,99,operador1,nenhum,3000000,201,1,,297000000.0,5.24,52.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,100,operador1,nenhum,3000000,201,1,,300000000.0,5.292,52.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,101,operador1,nenhum,3000000,201,1,,303000000.0,5.344,51.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,102,operador1,nenhum,3000000,201,1,,306000000.0,5.396,51.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,103,operador1,nenhum,3000000,201,1,,309000000.0,5.448,52.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,104,operador1,nenhum,3000000,201,1,,312000000.0,5.502,53.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,105,operador1,nenhum,3000000,201,1,,315000000.0,5.556,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,106,operador1,nenhum,3000000,201,1,,318000000.0,5.609,53.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,107,operador1,nenhum,3000000,201,1,,321000000.0,5.664,54.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,108,operador1,nenhum,3000000,201,1,,324000000.0,5.718,53.8
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,109,operador1,nenhum,3000000,201,1,,327000000.0,5.772,54.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,110,operador1,nenhum,3000000,201,1,,330000000.0,5.824,51.34
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,111,operador1,nenhum,3000000,201,1,,333000000.0,5.876,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,112,operador1,nenhum,3000000,201,1,,336000000.0,5.928,51.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,113,operador1,nenhum,3000000,201,1,,339000000.0,5.981,53.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,114,operador1,nenhum,3000000,201,1,,342000000.0,6.032,50.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,115,operador1,nenhum,3000000,201,1,,345000000.0,6.085,52.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,116,operador1,nenhum,3000000,201,1,,348000000.0,6.138,52.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,117,operador1,nenhum,3000000,201,1,,351000000.0,6.192,54.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,118,operador1,nenhum,3000000,201,1,,354000000.0,6.245,53.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,119,operador1,nenhum,3000000,201,1,,357000000.0,6.296,50.63
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,120,operador1,nenhum,3000000,201,1,,360000000.0,6.348,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,121,operador1,nenhum,3000000,201,1,,363000000.0,6.401,52.35
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,122,operador1,nenhum,3000000,201,1,,366000000.0,6.453,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,123,operador1,nenhum,3000000,201,1,,369000000.0,6.506,52.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,124,operador1,nenhum,3000000,201,1,,372000000.0,6.564,58.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,125,operador1,nenhum,3000000,201,1,,375000000.0,6.616,51.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,126,operador1,nenhum,3000000,201,1,,378000000.0,6.668,52.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,127,operador1,nenhum,3000000,201,1,,381000000.0,6.722,53.36
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,128,operador1,nenhum,3000000,201,1,,384000000.0,6.782,60.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,129,operador1,nenhum,3000000,201,1,,387000000.0,6.836,54.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,130,operador1,nenhum,3000000,201,1,,390000000.0,6.892,56.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,131,operador1,nenhum,3000000,201,1,,393000000.0,6.946,53.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,132,operador1,nenhum,3000000,201,1,,396000000.0,7.002,55.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,133,operador1,nenhum,3000000,201,1,,399000000.0,7.057,55.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,134,operador1,nenhum,3000000,201,1,,402000000.0,7.113,56.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,135,operador1,nenhum,3000000,201,1,,405000000.0,7.169,55.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,136,operador1,nenhum,3000000,201,1,,408000000.0,7.222,53.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,137,operador1,nenhum,3000000,201,1,,411000000.0,7.277,54.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,138,operador1,nenhum,3000000,201,1,,414000000.0,7.329,52.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,139,operador1,nenhum,3000000,201,1,,417000000.0,7.382,52.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,140,operador1,nenhum,3000000,201,1,,420000000.0,7.438,56.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,141,operador1,nenhum,3000000,201,1,,423000000.0,7.493,54.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,142,operador1,nenhum,3000000,201,1,,426000000.0,7.548,54.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,143,operador1,nenhum,3000000,201,1,,429000000.0,7.602,53.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,144,operador1,nenhum,3000000,201,1,,432000000.0,7.657,55.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,145,operador1,nenhum,3000000,201,1,,435000000.0,7.71,53.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,146,operador1,nenhum,3000000,201,1,,438000000.0,7.764,53.69
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,147,operador1,nenhum,3000000,201,1,,441000000.0,7.816,52.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,148,operador1,nenhum,3000000,201,1,,444000000.0,7.905,89.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,149,operador1,nenhum,3000000,201,1,,447000000.0,7.924,18.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,150,operador1,nenhum,3000000,201,1,,450000000.0,7.979,55.03
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,151,operador1,nenhum,3000000,201,1,,453000000.0,8.034,55.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,152,operador1,nenhum,3000000,201,1,,456000000.0,8.092,58.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,153,operador1,nenhum,3000000,201,1,,459000000.0,8.144,51.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,154,operador1,nenhum,3000000,201,1,,462000000.0,8.196,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,155,operador1,nenhum,3000000,201,1,,465000000.0,8.25,53.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,156,operador1,nenhum,3000000,201,1,,468000000.0,8.306,55.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,157,operador1,nenhum,3000000,201,1,,471000000.0,8.36,54.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,158,operador1,nenhum,3000000,201,1,,474000000.0,8.413,52.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,159,operador1,nenhum,3000000,201,1,,477000000.0,8.465,51.99
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,160,operador1,nenhum,3000000,201,1,,480000000.0,8.516,51.71
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,161,operador1,nenhum,3000000,201,1,,483000000.0,8.568,51.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,162,operador1,nenhum,3000000,201,1,,486000000.0,8.624,55.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,163,operador1,nenhum,3000000,201,1,,489000000.0,8.676,51.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,164,operador1,nenhum,3000000,201,1,,492000000.0,8.728,51.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,165,operador1,nenhum,3000000,201,1,,495000000.0,8.781,53.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,2,166,operador1,nenhum,3000000,201,1,,498000000.0,8.837,55.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,1,operador1,nenhum,3000000,201,1,,3000000.0,0.016,16.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,2,operador1,nenhum,3000000,201,1,,6000000.0,0.071,54.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,3,operador1,nenhum,3000000,201,1,,9000000.0,0.125,54.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,4,operador1,nenhum,3000000,201,1,,12000000.0,0.18,55.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,5,operador1,nenhum,3000000,201,1,,15000000.0,0.236,55.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,6,operador1,nenhum,3000000,201,1,,18000000.0,0.291,55.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,7,operador1,nenhum,3000000,201,1,,21000000.0,0.343,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,8,operador1,nenhum,3000000,201,1,,24000000.0,0.395,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,9,operador1,nenhum,3000000,201,1,,27000000.0,0.448,52.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,10,operador1,nenhum,3000000,201,1,,30000000.0,0.5,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,11,operador1,nenhum,3000000,201,1,,33000000.0,0.553,53.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,12,operador1,nenhum,3000000,201,1,,36000000.0,0.607,54.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,13,operador1,nenhum,3000000,201,1,,39000000.0,0.659,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,14,operador1,nenhum,3000000,201,1,,42000000.0,0.711,51.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,15,operador1,nenhum,3000000,201,1,,45000000.0,0.764,52.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,16,operador1,nenhum,3000000,201,1,,48000000.0,0.816,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,17,operador1,nenhum,3000000,201,1,,51000000.0,0.868,51.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,18,operador1,nenhum,3000000,201,1,,54000000.0,0.92,52.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,19,operador1,nenhum,3000000,201,1,,57000000.0,0.975,54.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,20,operador1,nenhum,3000000,201,1,,60000000.0,1.027,52.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,21,operador1,nenhum,3000000,201,1,,63000000.0,1.079,51.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,22,operador1,nenhum,3000000,201,1,,66000000.0,1.131,51.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,23,operador1,nenhum,3000000,201,1,,69000000.0,1.183,52.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,24,operador1,nenhum,3000000,201,1,,72000000.0,1.235,51.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,25,operador1,nenhum,3000000,201,1,,75000000.0,1.288,53.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,26,operador1,nenhum,3000000,201,1,,78000000.0,1.343,54.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,27,operador1,nenhum,3000000,201,1,,81000000.0,1.397,53.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,28,operador1,nenhum,3000000,201,1,,84000000.0,1.451,54.63
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,29,operador1,nenhum,3000000,201,1,,87000000.0,1.503,51.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,30,operador1,nenhum,3000000,201,1,,90000000.0,1.557,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,31,operador1,nenhum,3000000,201,1,,93000000.0,1.61,53.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,32,operador1,nenhum,3000000,201,1,,96000000.0,1.663,52.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,33,operador1,nenhum,3000000,201,1,,99000000.0,1.714,51.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,34,operador1,nenhum,3000000,201,1,,102000000.0,1.767,52.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,35,operador1,nenhum,3000000,201,1,,105000000.0,1.819,52.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,36,operador1,nenhum,3000000,201,1,,108000000.0,1.871,52.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,37,operador1,nenhum,3000000,201,1,,111000000.0,1.924,53.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,38,operador1,nenhum,3000000,201,1,,114000000.0,1.981,56.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,39,operador1,nenhum,3000000,201,1,,117000000.0,2.035,54.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,40,operador1,nenhum,3000000,201,1,,120000000.0,2.087,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,41,operador1,nenhum,3000000,201,1,,123000000.0,2.139,51.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,42,operador1,nenhum,3000000,201,1,,126000000.0,2.192,53.62
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,43,operador1,nenhum,3000000,201,1,,129000000.0,2.247,54.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,44,operador1,nenhum,3000000,201,1,,132000000.0,2.301,54.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,45,operador1,nenhum,3000000,201,1,,135000000.0,2.356,54.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,46,operador1,nenhum,3000000,201,1,,138000000.0,2.411,54.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,47,operador1,nenhum,3000000,201,1,,141000000.0,2.463,51.71
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,48,operador1,nenhum,3000000,201,1,,144000000.0,2.515,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,49,operador1,nenhum,3000000,201,1,,147000000.0,2.568,53.8
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,50,operador1,nenhum,3000000,201,1,,150000000.0,2.625,56.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,51,operador1,nenhum,3000000,201,1,,153000000.0,2.678,53.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,52,operador1,nenhum,3000000,201,1,,156000000.0,2.733,54.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,53,operador1,nenhum,3000000,201,1,,159000000.0,2.788,55.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,54,operador1,nenhum,3000000,201,1,,162000000.0,2.842,53.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,55,operador1,nenhum,3000000,201,1,,165000000.0,2.895,52.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,56,operador1,nenhum,3000000,201,1,,168000000.0,2.947,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,57,operador1,nenhum,3000000,201,1,,171000000.0,2.999,52.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,58,operador1,nenhum,3000000,201,1,,174000000.0,3.052,52.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,59,operador1,nenhum,3000000,201,1,,177000000.0,3.103,50.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,60,operador1,nenhum,3000000,201,1,,180000000.0,3.157,54.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,61,operador1,nenhum,3000000,201,1,,183000000.0,3.211,53.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,62,operador1,nenhum,3000000,201,1,,186000000.0,3.263,51.99
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,63,operador1,nenhum,3000000,201,1,,189000000.0,3.315,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,64,operador1,nenhum,3000000,201,1,,192000000.0,3.368,53.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,65,operador1,nenhum,3000000,201,1,,195000000.0,3.42,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,66,operador1,nenhum,3000000,201,1,,198000000.0,3.475,54.99
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,67,operador1,nenhum,3000000,201,1,,201000000.0,3.527,51.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,68,operador1,nenhum,3000000,201,1,,204000000.0,3.579,52.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,69,operador1,nenhum,3000000,201,1,,207000000.0,3.633,53.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,70,operador1,nenhum,3000000,201,1,,210000000.0,3.687,53.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,71,operador1,nenhum,3000000,201,1,,213000000.0,3.74,53.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,72,operador1,nenhum,3000000,201,1,,216000000.0,3.795,54.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,73,operador1,nenhum,3000000,201,1,,219000000.0,3.85,55.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,74,operador1,nenhum,3000000,201,1,,222000000.0,3.907,56.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,75,operador1,nenhum,3000000,201,1,,225000000.0,3.961,53.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,76,operador1,nenhum,3000000,201,1,,228000000.0,4.016,55.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,77,operador1,nenhum,3000000,201,1,,231000000.0,4.07,54.62
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,78,operador1,nenhum,3000000,201,1,,234000000.0,4.122,52.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,79,operador1,nenhum,3000000,201,1,,237000000.0,4.176,53.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,80,operador1,nenhum,3000000,201,1,,240000000.0,4.231,54.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,81,operador1,nenhum,3000000,201,1,,243000000.0,4.283,51.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,82,operador1,nenhum,3000000,201,1,,246000000.0,4.337,53.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,83,operador1,nenhum,3000000,201,1,,249000000.0,4.391,54.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,84,operador1,nenhum,3000000,201,1,,252000000.0,4.446,55.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,85,operador1,nenhum,3000000,201,1,,255000000.0,4.5,53.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,86,operador1,nenhum,3000000,201,1,,258000000.0,4.557,56.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,87,operador1,nenhum,3000000,201,1,,261000000.0,4.61,53.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,88,operador1,nenhum,3000000,201,1,,264000000.0,4.663,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,89,operador1,nenhum,3000000,201,1,,267000000.0,4.72,56.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,90,operador1,nenhum,3000000,201,1,,270000000.0,4.775,55.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,91,operador1,nenhum,3000000,201,1,,273000000.0,4.829,53.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,92,operador1,nenhum,3000000,201,1,,276000000.0,4.884,55.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,93,operador1,nenhum,3000000,201,1,,279000000.0,4.937,52.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,94,operador1,nenhum,3000000,201,1,,282000000.0,4.99,53.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,95,operador1,nenhum,3000000,201,1,,285000000.0,5.044,53.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,96,operador1,nenhum,3000000,201,1,,288000000.0,5.102,58.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,97,operador1,nenhum,3000000,201,1,,291000000.0,5.154,52.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,98,operador1,nenhum,3000000,201,1,,294000000.0,5.207,52.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,99,operador1,nenhum,3000000,201,1,,297000000.0,5.264,57.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,100,operador1,nenhum,3000000,201,1,,300000000.0,5.32,55.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,101,operador1,nenhum,3000000,201,1,,303000000.0,5.372,52.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,102,operador1,nenhum,3000000,201,1,,306000000.0,5.428,55.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,103,operador1,nenhum,3000000,201,1,,309000000.0,5.479,51.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,104,operador1,nenhum,3000000,201,1,,312000000.0,5.532,53.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,105,operador1,nenhum,3000000,201,1,,315000000.0,5.587,54.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,106,operador1,nenhum,3000000,201,1,,318000000.0,5.638,51.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,107,operador1,nenhum,3000000,201,1,,321000000.0,5.69,51.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,108,operador1,nenhum,3000000,201,1,,324000000.0,5.744,54.13
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,109,operador1,nenhum,3000000,201,1,,327000000.0,5.803,58.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,110,operador1,nenhum,3000000,201,1,,330000000.0,5.86,57.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,111,operador1,nenhum,3000000,201,1,,333000000.0,5.92,59.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,112,operador1,nenhum,3000000,201,1,,336000000.0,5.974,54.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,113,operador1,nenhum,3000000,201,1,,339000000.0,6.028,54.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,114,operador1,nenhum,3000000,201,1,,342000000.0,6.083,54.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,115,operador1,nenhum,3000000,201,1,,345000000.0,6.135,52.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,116,operador1,nenhum,3000000,201,1,,348000000.0,6.187,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,117,operador1,nenhum,3000000,201,1,,351000000.0,6.238,51.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,118,operador1,nenhum,3000000,201,1,,354000000.0,6.291,52.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,119,operador1,nenhum,3000000,201,1,,357000000.0,6.343,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,120,operador1,nenhum,3000000,201,1,,360000000.0,6.44,97.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,121,operador1,nenhum,3000000,201,1,,363000000.0,6.463,23.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,122,operador1,nenhum,3000000,201,1,,366000000.0,6.516,52.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,123,operador1,nenhum,3000000,201,1,,369000000.0,6.572,55.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,124,operador1,nenhum,3000000,201,1,,372000000.0,6.627,54.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,125,operador1,nenhum,3000000,201,1,,375000000.0,6.682,55.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,126,operador1,nenhum,3000000,201,1,,378000000.0,6.737,54.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,127,operador1,nenhum,3000000,201,1,,381000000.0,6.796,58.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,128,operador1,nenhum,3000000,201,1,,384000000.0,6.85,54.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,129,operador1,nenhum,3000000,201,1,,387000000.0,6.904,53.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,130,operador1,nenhum,3000000,201,1,,390000000.0,6.962,58.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,131,operador1,nenhum,3000000,201,1,,393000000.0,7.016,53.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,132,operador1,nenhum,3000000,201,1,,396000000.0,7.07,54.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,133,operador1,nenhum,3000000,201,1,,399000000.0,7.122,52.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,134,operador1,nenhum,3000000,201,1,,402000000.0,7.175,52.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,135,operador1,nenhum,3000000,201,1,,405000000.0,7.226,51.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,136,operador1,nenhum,3000000,201,1,,408000000.0,7.279,52.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,137,operador1,nenhum,3000000,201,1,,411000000.0,7.332,52.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,138,operador1,nenhum,3000000,201,1,,414000000.0,7.387,55.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,139,operador1,nenhum,3000000,201,1,,417000000.0,7.441,53.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,140,operador1,nenhum,3000000,201,1,,420000000.0,7.495,53.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,141,operador1,nenhum,3000000,201,1,,423000000.0,7.548,53.03
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,142,operador1,nenhum,3000000,201,1,,426000000.0,7.602,54.16
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,143,operador1,nenhum,3000000,201,1,,429000000.0,7.655,52.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,144,operador1,nenhum,3000000,201,1,,432000000.0,7.706,51.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,145,operador1,nenhum,3000000,201,1,,435000000.0,7.758,52.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,146,operador1,nenhum,3000000,201,1,,438000000.0,7.81,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,147,operador1,nenhum,3000000,201,1,,441000000.0,7.865,54.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,148,operador1,nenhum,3000000,201,1,,444000000.0,7.92,55.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,149,operador1,nenhum,3000000,201,1,,447000000.0,7.981,61.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,150,operador1,nenhum,3000000,201,1,,450000000.0,8.039,58.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,151,operador1,nenhum,3000000,201,1,,453000000.0,8.096,56.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,152,operador1,nenhum,3000000,201,1,,456000000.0,8.151,55.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,153,operador1,nenhum,3000000,201,1,,459000000.0,8.203,51.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,154,operador1,nenhum,3000000,201,1,,462000000.0,8.255,51.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,155,operador1,nenhum,3000000,201,1,,465000000.0,8.312,56.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,156,operador1,nenhum,3000000,201,1,,468000000.0,8.374,62.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,157,operador1,nenhum,3000000,201,1,,471000000.0,8.426,51.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,158,operador1,nenhum,3000000,201,1,,474000000.0,8.483,56.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,159,operador1,nenhum,3000000,201,1,,477000000.0,8.534,51.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,160,operador1,nenhum,3000000,201,1,,480000000.0,8.587,52.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,161,operador1,nenhum,3000000,201,1,,483000000.0,8.64,53.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,162,operador1,nenhum,3000000,201,1,,486000000.0,8.695,54.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,163,operador1,nenhum,3000000,201,1,,489000000.0,8.746,50.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,164,operador1,nenhum,3000000,201,1,,492000000.0,8.798,52.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,165,operador1,nenhum,3000000,201,1,,495000000.0,8.852,54.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,3,166,operador1,nenhum,3000000,201,1,,498000000.0,8.91,57.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,1,operador1,nenhum,3000000,201,1,,3000000.0,0.017,17.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,2,operador1,nenhum,3000000,201,1,,6000000.0,0.069,52.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,3,operador1,nenhum,3000000,201,1,,9000000.0,0.121,51.84
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,4,operador1,nenhum,3000000,201,1,,12000000.0,0.175,53.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,5,operador1,nenhum,3000000,201,1,,15000000.0,0.23,54.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,6,operador1,nenhum,3000000,201,1,,18000000.0,0.281,51.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,7,operador1,nenhum,3000000,201,1,,21000000.0,0.334,52.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,8,operador1,nenhum,3000000,201,1,,24000000.0,0.389,55.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,9,operador1,nenhum,3000000,201,1,,27000000.0,0.441,51.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,10,operador1,nenhum,3000000,201,1,,30000000.0,0.493,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,11,operador1,nenhum,3000000,201,1,,33000000.0,0.552,58.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,12,operador1,nenhum,3000000,201,1,,36000000.0,0.605,53.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,13,operador1,nenhum,3000000,201,1,,39000000.0,0.657,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,14,operador1,nenhum,3000000,201,1,,42000000.0,0.709,51.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,15,operador1,nenhum,3000000,201,1,,45000000.0,0.761,51.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,16,operador1,nenhum,3000000,201,1,,48000000.0,0.813,51.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,17,operador1,nenhum,3000000,201,1,,51000000.0,0.865,52.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,18,operador1,nenhum,3000000,201,1,,54000000.0,0.918,52.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,19,operador1,nenhum,3000000,201,1,,57000000.0,0.974,55.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,20,operador1,nenhum,3000000,201,1,,60000000.0,1.026,51.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,21,operador1,nenhum,3000000,201,1,,63000000.0,1.077,51.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,22,operador1,nenhum,3000000,201,1,,66000000.0,1.13,52.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,23,operador1,nenhum,3000000,201,1,,69000000.0,1.181,51.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,24,operador1,nenhum,3000000,201,1,,72000000.0,1.237,56.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,25,operador1,nenhum,3000000,201,1,,75000000.0,1.29,52.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,26,operador1,nenhum,3000000,201,1,,78000000.0,1.342,51.82
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,27,operador1,nenhum,3000000,201,1,,81000000.0,1.395,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,28,operador1,nenhum,3000000,201,1,,84000000.0,1.451,55.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,29,operador1,nenhum,3000000,201,1,,87000000.0,1.505,53.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,30,operador1,nenhum,3000000,201,1,,90000000.0,1.557,52.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,31,operador1,nenhum,3000000,201,1,,93000000.0,1.61,52.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,32,operador1,nenhum,3000000,201,1,,96000000.0,1.661,50.79
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,33,operador1,nenhum,3000000,201,1,,99000000.0,1.714,53.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,34,operador1,nenhum,3000000,201,1,,102000000.0,1.765,50.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,35,operador1,nenhum,3000000,201,1,,105000000.0,1.817,52.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,36,operador1,nenhum,3000000,201,1,,108000000.0,1.869,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,37,operador1,nenhum,3000000,201,1,,111000000.0,1.922,52.58
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,38,operador1,nenhum,3000000,201,1,,114000000.0,1.975,52.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,39,operador1,nenhum,3000000,201,1,,117000000.0,2.03,55.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,40,operador1,nenhum,3000000,201,1,,120000000.0,2.087,56.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,41,operador1,nenhum,3000000,201,1,,123000000.0,2.143,55.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,42,operador1,nenhum,3000000,201,1,,126000000.0,2.197,54.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,43,operador1,nenhum,3000000,201,1,,129000000.0,2.254,57.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,44,operador1,nenhum,3000000,201,1,,132000000.0,2.311,56.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,45,operador1,nenhum,3000000,201,1,,135000000.0,2.365,54.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,46,operador1,nenhum,3000000,201,1,,138000000.0,2.417,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,47,operador1,nenhum,3000000,201,1,,141000000.0,2.469,52.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,48,operador1,nenhum,3000000,201,1,,144000000.0,2.521,51.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,49,operador1,nenhum,3000000,201,1,,147000000.0,2.575,54.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,50,operador1,nenhum,3000000,201,1,,150000000.0,2.63,54.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,51,operador1,nenhum,3000000,201,1,,153000000.0,2.682,52.41
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,52,operador1,nenhum,3000000,201,1,,156000000.0,2.737,54.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,53,operador1,nenhum,3000000,201,1,,159000000.0,2.791,54.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,54,operador1,nenhum,3000000,201,1,,162000000.0,2.846,54.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,55,operador1,nenhum,3000000,201,1,,165000000.0,2.897,51.62
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,56,operador1,nenhum,3000000,201,1,,168000000.0,2.949,51.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,57,operador1,nenhum,3000000,201,1,,171000000.0,3.001,51.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,58,operador1,nenhum,3000000,201,1,,174000000.0,3.053,51.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,59,operador1,nenhum,3000000,201,1,,177000000.0,3.106,53.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,60,operador1,nenhum,3000000,201,1,,180000000.0,3.16,54.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,61,operador1,nenhum,3000000,201,1,,183000000.0,3.215,54.71
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,62,operador1,nenhum,3000000,201,1,,186000000.0,3.272,57.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,63,operador1,nenhum,3000000,201,1,,189000000.0,3.328,55.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,64,operador1,nenhum,3000000,201,1,,192000000.0,3.388,60.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,65,operador1,nenhum,3000000,201,1,,195000000.0,3.443,55.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,66,operador1,nenhum,3000000,201,1,,198000000.0,3.5,56.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,67,operador1,nenhum,3000000,201,1,,201000000.0,3.556,55.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,68,operador1,nenhum,3000000,201,1,,204000000.0,3.609,53.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,69,operador1,nenhum,3000000,201,1,,207000000.0,3.661,52.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,70,operador1,nenhum,3000000,201,1,,210000000.0,3.713,51.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,71,operador1,nenhum,3000000,201,1,,213000000.0,3.764,50.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,72,operador1,nenhum,3000000,201,1,,216000000.0,3.817,53.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,73,operador1,nenhum,3000000,201,1,,219000000.0,3.868,51.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,74,operador1,nenhum,3000000,201,1,,222000000.0,3.92,51.63
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,75,operador1,nenhum,3000000,201,1,,225000000.0,3.973,52.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,76,operador1,nenhum,3000000,201,1,,228000000.0,4.024,51.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,77,operador1,nenhum,3000000,201,1,,231000000.0,4.076,51.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,78,operador1,nenhum,3000000,201,1,,234000000.0,4.128,52.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,79,operador1,nenhum,3000000,201,1,,237000000.0,4.18,51.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,80,operador1,nenhum,3000000,201,1,,240000000.0,4.233,52.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,81,operador1,nenhum,3000000,201,1,,243000000.0,4.284,51.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,82,operador1,nenhum,3000000,201,1,,246000000.0,4.338,53.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,83,operador1,nenhum,3000000,201,1,,249000000.0,4.389,51.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,84,operador1,nenhum,3000000,201,1,,252000000.0,4.44,51.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,85,operador1,nenhum,3000000,201,1,,255000000.0,4.492,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,86,operador1,nenhum,3000000,201,1,,258000000.0,4.548,56.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,87,operador1,nenhum,3000000,201,1,,261000000.0,4.6,51.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,88,operador1,nenhum,3000000,201,1,,264000000.0,4.652,52.07
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,89,operador1,nenhum,3000000,201,1,,267000000.0,4.704,51.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,90,operador1,nenhum,3000000,201,1,,270000000.0,4.757,52.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,91,operador1,nenhum,3000000,201,1,,273000000.0,4.808,50.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,92,operador1,nenhum,3000000,201,1,,276000000.0,4.86,52.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,93,operador1,nenhum,3000000,201,1,,279000000.0,4.913,52.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,94,operador1,nenhum,3000000,201,1,,282000000.0,4.964,51.16
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,95,operador1,nenhum,3000000,201,1,,285000000.0,5.016,52.03
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,96,operador1,nenhum,3000000,201,1,,288000000.0,5.068,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,97,operador1,nenhum,3000000,201,1,,291000000.0,5.121,52.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,98,operador1,nenhum,3000000,201,1,,294000000.0,5.172,51.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,99,operador1,nenhum,3000000,201,1,,297000000.0,5.224,52.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,100,operador1,nenhum,3000000,201,1,,300000000.0,5.276,52.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,101,operador1,nenhum,3000000,201,1,,303000000.0,5.328,51.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,102,operador1,nenhum,3000000,201,1,,306000000.0,5.38,52.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,103,operador1,nenhum,3000000,201,1,,309000000.0,5.432,52.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,104,operador1,nenhum,3000000,201,1,,312000000.0,5.485,52.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,105,operador1,nenhum,3000000,201,1,,315000000.0,5.536,51.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,106,operador1,nenhum,3000000,201,1,,318000000.0,5.588,52.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,107,operador1,nenhum,3000000,201,1,,321000000.0,5.641,52.63
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,108,operador1,nenhum,3000000,201,1,,324000000.0,5.692,51.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,109,operador1,nenhum,3000000,201,1,,327000000.0,5.744,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,110,operador1,nenhum,3000000,201,1,,330000000.0,5.796,52.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,111,operador1,nenhum,3000000,201,1,,333000000.0,5.848,51.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,112,operador1,nenhum,3000000,201,1,,336000000.0,5.901,52.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,113,operador1,nenhum,3000000,201,1,,339000000.0,5.953,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,114,operador1,nenhum,3000000,201,1,,342000000.0,6.004,51.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,115,operador1,nenhum,3000000,201,1,,345000000.0,6.056,52.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,116,operador1,nenhum,3000000,201,1,,348000000.0,6.108,52.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,117,operador1,nenhum,3000000,201,1,,351000000.0,6.16,51.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,118,operador1,nenhum,3000000,201,1,,354000000.0,6.212,52.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,119,operador1,nenhum,3000000,201,1,,357000000.0,6.265,52.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,120,operador1,nenhum,3000000,201,1,,360000000.0,6.316,51.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,121,operador1,nenhum,3000000,201,1,,363000000.0,6.368,52.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,122,operador1,nenhum,3000000,201,1,,366000000.0,6.421,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,123,operador1,nenhum,3000000,201,1,,369000000.0,6.473,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,124,operador1,nenhum,3000000,201,1,,372000000.0,6.524,51.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,125,operador1,nenhum,3000000,201,1,,375000000.0,6.654,130.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,126,operador1,nenhum,3000000,201,1,,378000000.0,6.668,14.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,127,operador1,nenhum,3000000,201,1,,381000000.0,6.727,58.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,128,operador1,nenhum,3000000,201,1,,384000000.0,6.802,75.58
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,129,operador1,nenhum,3000000,201,1,,387000000.0,6.884,81.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,130,operador1,nenhum,3000000,201,1,,390000000.0,6.936,51.79
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,131,operador1,nenhum,3000000,201,1,,393000000.0,6.988,52.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,132,operador1,nenhum,3000000,201,1,,396000000.0,7.04,51.58
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,133,operador1,nenhum,3000000,201,1,,399000000.0,7.092,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,134,operador1,nenhum,3000000,201,1,,402000000.0,7.144,52.42
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,135,operador1,nenhum,3000000,201,1,,405000000.0,7.196,51.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,136,operador1,nenhum,3000000,201,1,,408000000.0,7.248,51.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,137,operador1,nenhum,3000000,201,1,,411000000.0,7.3,51.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,138,operador1,nenhum,3000000,201,1,,414000000.0,7.352,52.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,139,operador1,nenhum,3000000,201,1,,417000000.0,7.404,52.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,140,operador1,nenhum,3000000,201,1,,420000000.0,7.456,51.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,141,operador1,nenhum,3000000,201,1,,423000000.0,7.508,52.13
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,142,operador1,nenhum,3000000,201,1,,426000000.0,7.56,52.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,143,operador1,nenhum,3000000,201,1,,429000000.0,7.612,51.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,144,operador1,nenhum,3000000,201,1,,432000000.0,7.664,52.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,145,operador1,nenhum,3000000,201,1,,435000000.0,7.717,53.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,146,operador1,nenhum,3000000,201,1,,438000000.0,7.768,50.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,147,operador1,nenhum,3000000,201,1,,441000000.0,7.821,53.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,148,operador1,nenhum,3000000,201,1,,444000000.0,7.873,51.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,149,operador1,nenhum,3000000,201,1,,447000000.0,7.925,51.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,150,operador1,nenhum,3000000,201,1,,450000000.0,7.977,52.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,151,operador1,nenhum,3000000,201,1,,453000000.0,8.028,50.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,152,operador1,nenhum,3000000,201,1,,456000000.0,8.08,52.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,153,operador1,nenhum,3000000,201,1,,459000000.0,8.132,51.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,154,operador1,nenhum,3000000,201,1,,462000000.0,8.184,52.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,155,operador1,nenhum,3000000,201,1,,465000000.0,8.236,52.08
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,156,operador1,nenhum,3000000,201,1,,468000000.0,8.288,51.31
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,157,operador1,nenhum,3000000,201,1,,471000000.0,8.34,52.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,158,operador1,nenhum,3000000,201,1,,474000000.0,8.392,52.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,159,operador1,nenhum,3000000,201,1,,477000000.0,8.444,52.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,160,operador1,nenhum,3000000,201,1,,480000000.0,8.498,53.11
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,161,operador1,nenhum,3000000,201,1,,483000000.0,8.549,51.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,162,operador1,nenhum,3000000,201,1,,486000000.0,8.6,51.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,163,operador1,nenhum,3000000,201,1,,489000000.0,8.653,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,164,operador1,nenhum,3000000,201,1,,492000000.0,8.705,52.36
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,165,operador1,nenhum,3000000,201,1,,495000000.0,8.756,51.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,4,166,operador1,nenhum,3000000,201,1,,498000000.0,8.81,53.69
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,1,operador1,nenhum,3000000,201,1,,3000000.0,0.018,17.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,2,operador1,nenhum,3000000,201,1,,6000000.0,0.072,53.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,3,operador1,nenhum,3000000,201,1,,9000000.0,0.125,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,4,operador1,nenhum,3000000,201,1,,12000000.0,0.18,54.87
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,5,operador1,nenhum,3000000,201,1,,15000000.0,0.233,52.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,6,operador1,nenhum,3000000,201,1,,18000000.0,0.285,52.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,7,operador1,nenhum,3000000,201,1,,21000000.0,0.336,51.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,8,operador1,nenhum,3000000,201,1,,24000000.0,0.391,54.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,9,operador1,nenhum,3000000,201,1,,27000000.0,0.444,52.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,10,operador1,nenhum,3000000,201,1,,30000000.0,0.495,50.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,11,operador1,nenhum,3000000,201,1,,33000000.0,0.547,51.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,12,operador1,nenhum,3000000,201,1,,36000000.0,0.6,52.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,13,operador1,nenhum,3000000,201,1,,39000000.0,0.652,52.34
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,14,operador1,nenhum,3000000,201,1,,42000000.0,0.704,52.0
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,15,operador1,nenhum,3000000,201,1,,45000000.0,0.76,55.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,16,operador1,nenhum,3000000,201,1,,48000000.0,0.812,51.58
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,17,operador1,nenhum,3000000,201,1,,51000000.0,0.863,51.46
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,18,operador1,nenhum,3000000,201,1,,54000000.0,0.919,55.43
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,19,operador1,nenhum,3000000,201,1,,57000000.0,0.972,53.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,20,operador1,nenhum,3000000,201,1,,60000000.0,1.024,51.95
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,21,operador1,nenhum,3000000,201,1,,63000000.0,1.075,51.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,22,operador1,nenhum,3000000,201,1,,66000000.0,1.127,52.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,23,operador1,nenhum,3000000,201,1,,69000000.0,1.179,51.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,24,operador1,nenhum,3000000,201,1,,72000000.0,1.231,52.16
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,25,operador1,nenhum,3000000,201,1,,75000000.0,1.283,51.89
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,26,operador1,nenhum,3000000,201,1,,78000000.0,1.337,53.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,27,operador1,nenhum,3000000,201,1,,81000000.0,1.392,55.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,28,operador1,nenhum,3000000,201,1,,84000000.0,1.445,53.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,29,operador1,nenhum,3000000,201,1,,87000000.0,1.5,54.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,30,operador1,nenhum,3000000,201,1,,90000000.0,1.551,51.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,31,operador1,nenhum,3000000,201,1,,93000000.0,1.604,53.25
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,32,operador1,nenhum,3000000,201,1,,96000000.0,1.655,50.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,33,operador1,nenhum,3000000,201,1,,99000000.0,1.707,51.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,34,operador1,nenhum,3000000,201,1,,102000000.0,1.759,52.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,35,operador1,nenhum,3000000,201,1,,105000000.0,1.812,52.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,36,operador1,nenhum,3000000,201,1,,108000000.0,1.863,51.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,37,operador1,nenhum,3000000,201,1,,111000000.0,1.916,52.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,38,operador1,nenhum,3000000,201,1,,114000000.0,1.97,53.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,39,operador1,nenhum,3000000,201,1,,117000000.0,2.024,53.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,40,operador1,nenhum,3000000,201,1,,120000000.0,2.076,52.37
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,41,operador1,nenhum,3000000,201,1,,123000000.0,2.133,57.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,42,operador1,nenhum,3000000,201,1,,126000000.0,2.193,59.24
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,43,operador1,nenhum,3000000,201,1,,129000000.0,2.244,51.3
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,44,operador1,nenhum,3000000,201,1,,132000000.0,2.295,51.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,45,operador1,nenhum,3000000,201,1,,135000000.0,2.351,56.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,46,operador1,nenhum,3000000,201,1,,138000000.0,2.404,52.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,47,operador1,nenhum,3000000,201,1,,141000000.0,2.456,52.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,48,operador1,nenhum,3000000,201,1,,144000000.0,2.508,51.43
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,49,operador1,nenhum,3000000,201,1,,147000000.0,2.561,53.06
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,50,operador1,nenhum,3000000,201,1,,150000000.0,2.618,56.88
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,51,operador1,nenhum,3000000,201,1,,153000000.0,2.672,54.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,52,operador1,nenhum,3000000,201,1,,156000000.0,2.724,52.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,53,operador1,nenhum,3000000,201,1,,159000000.0,2.776,51.99
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,54,operador1,nenhum,3000000,201,1,,162000000.0,2.828,51.72
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,55,operador1,nenhum,3000000,201,1,,165000000.0,2.88,52.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,56,operador1,nenhum,3000000,201,1,,168000000.0,2.931,51.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,57,operador1,nenhum,3000000,201,1,,171000000.0,2.986,54.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,58,operador1,nenhum,3000000,201,1,,174000000.0,3.04,54.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,59,operador1,nenhum,3000000,201,1,,177000000.0,3.092,51.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,60,operador1,nenhum,3000000,201,1,,180000000.0,3.144,52.05
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,61,operador1,nenhum,3000000,201,1,,183000000.0,3.197,53.53
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,62,operador1,nenhum,3000000,201,1,,186000000.0,3.252,54.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,63,operador1,nenhum,3000000,201,1,,189000000.0,3.305,53.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,64,operador1,nenhum,3000000,201,1,,192000000.0,3.36,54.14
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,65,operador1,nenhum,3000000,201,1,,195000000.0,3.415,55.47
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,66,operador1,nenhum,3000000,201,1,,198000000.0,3.469,54.29
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,67,operador1,nenhum,3000000,201,1,,201000000.0,3.523,53.73
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,68,operador1,nenhum,3000000,201,1,,204000000.0,3.579,56.19
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,69,operador1,nenhum,3000000,201,1,,207000000.0,3.634,54.13
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,70,operador1,nenhum,3000000,201,1,,210000000.0,3.688,54.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,71,operador1,nenhum,3000000,201,1,,213000000.0,3.74,51.35
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,72,operador1,nenhum,3000000,201,1,,216000000.0,3.791,51.51
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,73,operador1,nenhum,3000000,201,1,,219000000.0,3.843,51.5
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,74,operador1,nenhum,3000000,201,1,,222000000.0,3.895,52.1
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,75,operador1,nenhum,3000000,201,1,,225000000.0,3.947,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,76,operador1,nenhum,3000000,201,1,,228000000.0,4.003,56.55
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,77,operador1,nenhum,3000000,201,1,,231000000.0,4.056,52.49
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,78,operador1,nenhum,3000000,201,1,,234000000.0,4.107,50.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,79,operador1,nenhum,3000000,201,1,,237000000.0,4.159,52.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,80,operador1,nenhum,3000000,201,1,,240000000.0,4.211,51.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,81,operador1,nenhum,3000000,201,1,,243000000.0,4.263,51.39
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,82,operador1,nenhum,3000000,201,1,,246000000.0,4.316,53.02
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,83,operador1,nenhum,3000000,201,1,,249000000.0,4.368,52.18
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,84,operador1,nenhum,3000000,201,1,,252000000.0,4.42,51.67
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,85,operador1,nenhum,3000000,201,1,,255000000.0,4.474,53.94
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,86,operador1,nenhum,3000000,201,1,,258000000.0,4.529,55.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,87,operador1,nenhum,3000000,201,1,,261000000.0,4.583,54.21
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,88,operador1,nenhum,3000000,201,1,,264000000.0,4.635,51.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,89,operador1,nenhum,3000000,201,1,,267000000.0,4.687,52.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,90,operador1,nenhum,3000000,201,1,,270000000.0,4.741,53.65
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,91,operador1,nenhum,3000000,201,1,,273000000.0,4.797,56.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,92,operador1,nenhum,3000000,201,1,,276000000.0,4.852,54.36
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,93,operador1,nenhum,3000000,201,1,,279000000.0,4.904,52.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,94,operador1,nenhum,3000000,201,1,,282000000.0,4.955,51.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,95,operador1,nenhum,3000000,201,1,,285000000.0,5.008,52.33
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,96,operador1,nenhum,3000000,201,1,,288000000.0,5.061,53.81
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,97,operador1,nenhum,3000000,201,1,,291000000.0,5.116,54.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,98,operador1,nenhum,3000000,201,1,,294000000.0,5.168,52.2
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,99,operador1,nenhum,3000000,201,1,,297000000.0,5.219,51.6
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,100,operador1,nenhum,3000000,201,1,,300000000.0,5.273,53.43
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,101,operador1,nenhum,3000000,201,1,,303000000.0,5.329,56.38
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,102,operador1,nenhum,3000000,201,1,,306000000.0,5.384,54.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,103,operador1,nenhum,3000000,201,1,,309000000.0,5.436,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,104,operador1,nenhum,3000000,201,1,,312000000.0,5.489,53.15
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,105,operador1,nenhum,3000000,201,1,,315000000.0,5.545,56.48
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,106,operador1,nenhum,3000000,201,1,,318000000.0,5.602,56.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,107,operador1,nenhum,3000000,201,1,,321000000.0,5.656,53.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,108,operador1,nenhum,3000000,201,1,,324000000.0,5.707,51.56
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,109,operador1,nenhum,3000000,201,1,,327000000.0,5.759,51.99
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,110,operador1,nenhum,3000000,201,1,,330000000.0,5.811,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,111,operador1,nenhum,3000000,201,1,,333000000.0,5.864,52.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,112,operador1,nenhum,3000000,201,1,,336000000.0,5.915,51.64
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,113,operador1,nenhum,3000000,201,1,,339000000.0,5.967,51.75
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,114,operador1,nenhum,3000000,201,1,,342000000.0,6.019,51.97
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,115,operador1,nenhum,3000000,201,1,,345000000.0,6.071,52.04
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,116,operador1,nenhum,3000000,201,1,,348000000.0,6.125,53.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,117,operador1,nenhum,3000000,201,1,,351000000.0,6.18,55.12
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,118,operador1,nenhum,3000000,201,1,,354000000.0,6.232,51.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,119,operador1,nenhum,3000000,201,1,,357000000.0,6.283,51.52
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,120,operador1,nenhum,3000000,201,1,,360000000.0,6.337,53.74
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,121,operador1,nenhum,3000000,201,1,,363000000.0,6.391,54.28
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,122,operador1,nenhum,3000000,201,1,,366000000.0,6.444,52.27
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,123,operador1,nenhum,3000000,201,1,,369000000.0,6.496,51.98
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,124,operador1,nenhum,3000000,201,1,,372000000.0,6.547,51.76
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,125,operador1,nenhum,3000000,201,1,,375000000.0,6.601,54.01
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,126,operador1,nenhum,3000000,201,1,,378000000.0,6.662,60.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,127,operador1,nenhum,3000000,201,1,,381000000.0,6.715,53.4
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,128,operador1,nenhum,3000000,201,1,,384000000.0,6.767,51.86
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,129,operador1,nenhum,3000000,201,1,,387000000.0,6.82,52.8
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,130,operador1,nenhum,3000000,201,1,,390000000.0,6.872,51.96
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,131,operador1,nenhum,3000000,201,1,,393000000.0,6.924,52.22
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,132,operador1,nenhum,3000000,201,1,,396000000.0,6.975,50.92
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,133,operador1,nenhum,3000000,201,1,,399000000.0,7.027,52.11
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,134,operador1,nenhum,3000000,201,1,,402000000.0,7.079,51.83
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,135,operador1,nenhum,3000000,201,1,,405000000.0,7.134,54.46
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,136,operador1,nenhum,3000000,201,1,,408000000.0,7.193,59.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,137,operador1,nenhum,3000000,201,1,,411000000.0,7.249,56.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,138,operador1,nenhum,3000000,201,1,,414000000.0,7.304,54.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,139,operador1,nenhum,3000000,201,1,,417000000.0,7.355,51.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,140,operador1,nenhum,3000000,201,1,,420000000.0,7.452,96.17
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,141,operador1,nenhum,3000000,201,1,,423000000.0,7.475,23.45
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,142,operador1,nenhum,3000000,201,1,,426000000.0,7.531,55.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,143,operador1,nenhum,3000000,201,1,,429000000.0,7.589,57.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,144,operador1,nenhum,3000000,201,1,,432000000.0,7.656,67.44
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,145,operador1,nenhum,3000000,201,1,,435000000.0,7.713,56.66
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,146,operador1,nenhum,3000000,201,1,,438000000.0,7.767,54.32
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,147,operador1,nenhum,3000000,201,1,,441000000.0,7.82,53.26
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,148,operador1,nenhum,3000000,201,1,,444000000.0,7.871,50.54
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,149,operador1,nenhum,3000000,201,1,,447000000.0,7.923,51.77
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,150,operador1,nenhum,3000000,201,1,,450000000.0,7.975,51.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,151,operador1,nenhum,3000000,201,1,,453000000.0,8.027,52.23
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,152,operador1,nenhum,3000000,201,1,,456000000.0,8.08,52.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,153,operador1,nenhum,3000000,201,1,,459000000.0,8.135,55.46
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,154,operador1,nenhum,3000000,201,1,,462000000.0,8.188,52.61
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,155,operador1,nenhum,3000000,201,1,,465000000.0,8.242,53.59
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,156,operador1,nenhum,3000000,201,1,,468000000.0,8.295,53.57
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,157,operador1,nenhum,3000000,201,1,,471000000.0,8.349,53.91
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,158,operador1,nenhum,3000000,201,1,,474000000.0,8.403,53.9
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,159,operador1,nenhum,3000000,201,1,,477000000.0,8.455,52.13
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,160,operador1,nenhum,3000000,201,1,,480000000.0,8.509,53.7
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,161,operador1,nenhum,3000000,201,1,,483000000.0,8.563,53.93
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,162,operador1,nenhum,3000000,201,1,,486000000.0,8.615,52.09
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,163,operador1,nenhum,3000000,201,1,,489000000.0,8.672,57.34
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,164,operador1,nenhum,3000000,201,1,,492000000.0,8.727,54.78
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,165,operador1,nenhum,3000000,201,1,,495000000.0,8.781,53.68
+C1,Perímetro: credencial válida,ataque,perimetro,real,5,166,operador1,nenhum,3000000,201,1,,498000000.0,8.835,54.14
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,1,operador1,estacao-operador1,188922.05,201,1,,188922.05,0.016,16.34
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,2,operador2,estacao-operador2,165421.35,201,1,,354343.4,0.034,17.8
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,3,operador1,estacao-operador1,241047.79,201,1,,595391.1900000001,0.086,51.9
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,4,operador2,estacao-operador2,77641.89,201,1,,673033.0800000001,0.14,53.74
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,5,operador1,estacao-operador1,181573.57,201,1,,854606.6500000001,0.196,55.83
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,6,operador2,estacao-operador2,143435.07,201,1,,998041.7200000002,0.25,53.71
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,7,operador1,estacao-operador1,109592.03,201,1,,1107633.7500000002,0.301,51.89
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,8,operador2,estacao-operador2,178442.91,201,1,,1286076.6600000001,0.353,51.87
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,9,operador1,estacao-operador1,94128.46,201,1,,1380205.12,0.406,52.47
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,10,operador2,estacao-operador2,11196.57,201,1,,1391401.6900000002,0.458,52.06
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,11,operador1,estacao-operador1,139757.53,201,1,,1531159.2200000002,0.513,55.46
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,12,operador2,estacao-operador2,151666.58,201,1,,1682825.8000000003,0.566,52.29
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,13,operador1,estacao-operador1,286070.78,201,1,,1968896.5800000003,0.618,52.55
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,14,operador2,estacao-operador2,304846.77,201,1,,2273743.3500000006,0.67,51.2
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,15,operador1,estacao-operador1,80046.34,201,1,,2353789.6900000004,0.722,52.43
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,16,operador2,estacao-operador2,104563.16,201,1,,2458352.8500000006,0.775,52.99
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,17,operador1,estacao-operador1,126056.25,201,1,,2584409.1000000006,0.829,54.17
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,18,operador2,estacao-operador2,241033.67,201,1,,2825442.7700000005,0.882,52.32
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,19,operador1,estacao-operador1,49680.81,201,1,,2875123.5800000005,0.934,52.13
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,20,operador2,estacao-operador2,74128.0,201,1,,2949251.5800000005,0.985,51.44
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,21,operador1,estacao-operador1,13899.95,201,1,,2963151.5300000007,1.039,53.99
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,22,operador2,estacao-operador2,18457.49,201,1,,2981609.020000001,1.093,53.81
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,23,operador1,estacao-operador1,17332.13,201,1,,2998941.150000001,1.145,51.75
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,24,operador2,estacao-operador2,94128.58,201,1,,3093069.730000001,1.197,52.47
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,25,operador1,estacao-operador1,49414.69,201,1,,3142484.420000001,1.249,51.44
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,26,operador2,estacao-operador2,20957.86,201,1,,3163442.2800000007,1.302,53.4
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,27,operador1,estacao-operador1,72951.86,201,1,,3236394.1400000006,1.358,55.29
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,28,operador2,estacao-operador2,83150.73,201,1,,3319544.8700000006,1.411,53.07
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,29,operador1,estacao-operador1,39199.15,201,1,,3358744.0200000005,1.466,55.24
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,1,30,operador2,estacao-operador2,215398.98,201,1,,3574143.0000000005,1.519,53.13
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,1,operador1,estacao-operador1,68326.72,201,1,,68326.72,0.017,17.0
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,2,operador2,estacao-operador2,275891.13,201,1,,344217.85,0.034,16.6
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,3,operador1,estacao-operador1,16173.64,201,1,,360391.49,0.092,58.18
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,4,operador2,estacao-operador2,15976.03,201,1,,376367.52,0.143,51.34
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,5,operador1,estacao-operador1,98872.25,201,1,,475239.77,0.195,52.19
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,6,operador2,estacao-operador2,65651.53,201,1,,540891.3,0.247,51.73
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,7,operador1,estacao-operador1,22974.18,201,1,,563865.4800000001,0.3,52.32
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,8,operador2,estacao-operador2,47272.62,201,1,,611138.1000000001,0.352,52.17
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,9,operador1,estacao-operador1,77837.88,201,1,,688975.9800000001,0.404,52.55
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,10,operador2,estacao-operador2,163113.99,201,1,,852089.9700000001,0.457,52.82
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,11,operador1,estacao-operador1,31598.32,201,1,,883688.29,0.512,54.45
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,12,operador2,estacao-operador2,13430.9,201,1,,897119.1900000001,0.564,51.83
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,13,operador1,estacao-operador1,318236.36,201,1,,1215355.55,0.616,52.81
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,14,operador2,estacao-operador2,99298.84,201,1,,1314654.3900000001,0.668,51.08
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,15,operador1,estacao-operador1,14528.7,201,1,,1329183.09,0.721,53.33
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,16,operador2,estacao-operador2,107958.98,201,1,,1437142.07,0.777,55.69
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,17,operador1,estacao-operador1,31755.19,201,1,,1468897.26,0.828,51.55
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,18,operador2,estacao-operador2,346453.37,201,1,,1815350.63,0.88,51.52
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,19,operador1,estacao-operador1,46531.13,201,1,,1861881.7599999998,0.937,57.14
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,20,operador2,estacao-operador2,13688.81,201,1,,1875570.5699999998,0.992,55.4
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,21,operador1,estacao-operador1,19367.98,201,1,,1894938.5499999998,1.046,53.69
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,22,operador2,estacao-operador2,299161.09,201,1,,2194099.6399999997,1.099,53.27
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,23,operador1,estacao-operador1,167729.66,201,1,,2361829.3,1.152,52.68
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,24,operador2,estacao-operador2,59336.55,201,1,,2421165.8499999996,1.205,52.44
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,25,operador1,estacao-operador1,27006.89,201,1,,2448172.7399999998,1.256,51.05
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,26,operador2,estacao-operador2,12555.12,201,1,,2460727.86,1.308,52.03
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,27,operador1,estacao-operador1,138258.98,201,1,,2598986.84,1.363,54.75
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,28,operador2,estacao-operador2,206091.5,201,1,,2805078.34,1.416,52.99
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,29,operador1,estacao-operador1,13582.94,201,1,,2818661.28,1.469,53.04
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,2,30,operador2,estacao-operador2,10384.34,201,1,,2829045.6199999996,1.52,51.16
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,1,operador1,estacao-operador1,62628.32,201,1,,62628.32,0.017,17.3
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,2,operador2,estacao-operador2,22636.09,201,1,,85264.41,0.034,16.56
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,3,operador1,estacao-operador1,51960.61,201,1,,137225.02000000002,0.088,54.25
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,4,operador2,estacao-operador2,44405.34,201,1,,181630.36000000002,0.147,58.3
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,5,operador1,estacao-operador1,12759.07,201,1,,194389.43000000002,0.2,53.37
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,6,operador2,estacao-operador2,52850.3,201,1,,247239.73000000004,0.254,54.5
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,7,operador1,estacao-operador1,273144.21,201,1,,520383.94000000006,0.307,52.61
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,8,operador2,estacao-operador2,85384.99,201,1,,605768.93,0.359,52.24
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,9,operador1,estacao-operador1,141004.68,201,1,,746773.6100000001,0.411,51.87
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,10,operador2,estacao-operador2,107367.51,201,1,,854141.1200000001,0.463,52.03
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,11,operador1,estacao-operador1,75109.04,201,1,,929250.1600000001,0.515,52.02
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,12,operador2,estacao-operador2,23304.59,201,1,,952554.7500000001,0.566,50.99
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,13,operador1,estacao-operador1,76759.54,201,1,,1029314.2900000002,0.619,52.07
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,14,operador2,estacao-operador2,42468.22,201,1,,1071782.5100000002,0.67,51.76
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,15,operador1,estacao-operador1,73504.57,201,1,,1145287.0800000003,0.724,53.47
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,16,operador2,estacao-operador2,12509.49,201,1,,1157796.5700000003,0.779,54.64
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,17,operador1,estacao-operador1,288446.35,201,1,,1446242.9200000004,0.831,52.51
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,18,operador2,estacao-operador2,40253.29,201,1,,1486496.2100000004,0.883,51.8
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,19,operador1,estacao-operador1,20806.82,201,1,,1507303.0300000005,0.934,51.23
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,20,operador2,estacao-operador2,53416.15,201,1,,1560719.1800000004,0.987,52.55
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,21,operador1,estacao-operador1,161713.9,201,1,,1722433.0800000003,1.043,56.01
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,22,operador2,estacao-operador2,235403.52,201,1,,1957836.6000000003,1.095,52.64
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,23,operador1,estacao-operador1,154542.46,201,1,,2112379.0600000005,1.151,55.91
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,24,operador2,estacao-operador2,19510.29,201,1,,2131889.3500000006,1.206,54.76
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,25,operador1,estacao-operador1,21125.62,201,1,,2153014.9700000007,1.259,52.31
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,26,operador2,estacao-operador2,52023.27,201,1,,2205038.2400000007,1.31,51.74
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,27,operador1,estacao-operador1,17329.72,201,1,,2222367.960000001,1.362,52.09
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,28,operador2,estacao-operador2,227762.92,201,1,,2450130.880000001,1.416,54.01
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,29,operador1,estacao-operador1,14334.18,201,1,,2464465.060000001,1.47,53.9
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,3,30,operador2,estacao-operador2,126690.42,201,1,,2591155.480000001,1.522,51.98
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,1,operador1,estacao-operador1,47278.9,201,1,,47278.9,0.015,14.98
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,2,operador2,estacao-operador2,73218.72,201,1,,120497.62,0.03,15.29
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,3,operador1,estacao-operador1,105025.82,201,1,,225523.44,0.086,55.21
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,4,operador2,estacao-operador2,35250.97,201,1,,260774.41,0.137,51.42
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,5,operador1,estacao-operador1,132426.0,201,1,,393200.41000000003,0.189,52.0
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,6,operador2,estacao-operador2,225973.6,201,1,,619174.01,0.241,52.07
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,7,operador1,estacao-operador1,12884.4,201,1,,632058.41,0.293,51.96
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,8,operador2,estacao-operador2,142714.13,201,1,,774772.54,0.347,53.55
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,9,operador1,estacao-operador1,139555.14,201,1,,914327.68,0.401,54.15
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,10,operador2,estacao-operador2,17610.9,201,1,,931938.5800000001,0.454,52.86
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,11,operador1,estacao-operador1,33119.42,201,1,,965058.0000000001,0.506,51.86
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,12,operador2,estacao-operador2,11212.57,201,1,,976270.5700000001,0.557,51.24
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,13,operador1,estacao-operador1,15622.98,201,1,,991893.55,0.61,52.53
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,14,operador2,estacao-operador2,249252.91,201,1,,1241146.46,0.661,51.53
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,15,operador1,estacao-operador1,76695.63,201,1,,1317842.0899999999,0.713,51.84
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,16,operador2,estacao-operador2,271763.36,201,1,,1589605.4499999997,0.764,51.42
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,17,operador1,estacao-operador1,28636.63,201,1,,1618242.0799999996,0.817,52.57
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,18,operador2,estacao-operador2,12409.05,201,1,,1630651.1299999997,0.87,52.67
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,19,operador1,estacao-operador1,114501.83,201,1,,1745152.9599999997,0.923,53.6
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,20,operador2,estacao-operador2,61195.6,201,1,,1806348.5599999998,0.977,53.25
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,21,operador1,estacao-operador1,50707.1,201,1,,1857055.66,1.029,52.26
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,22,operador2,estacao-operador2,56115.97,201,1,,1913171.63,1.081,51.69
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,23,operador1,estacao-operador1,57113.89,201,1,,1970285.5199999998,1.134,53.68
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,24,operador2,estacao-operador2,10786.03,201,1,,1981071.5499999998,1.189,54.76
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,25,operador1,estacao-operador1,379578.28,201,1,,2360649.83,1.24,51.28
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,26,operador2,estacao-operador2,37370.62,201,1,,2398020.45,1.292,51.86
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,27,operador1,estacao-operador1,93831.99,201,1,,2491852.4400000004,1.346,53.75
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,28,operador2,estacao-operador2,31625.64,201,1,,2523478.0800000005,1.4,54.05
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,29,operador1,estacao-operador1,253581.09,201,1,,2777059.1700000004,1.454,53.79
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,4,30,operador2,estacao-operador2,48396.08,201,1,,2825455.2500000005,1.509,54.53
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,1,operador1,estacao-operador1,59425.36,201,1,,59425.36,0.021,20.95
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,2,operador2,estacao-operador2,72617.06,201,1,,132042.41999999998,0.038,17.08
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,3,operador1,estacao-operador1,105117.32,201,1,,237159.74,0.093,54.76
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,4,operador2,estacao-operador2,37380.99,201,1,,274540.73,0.144,50.77
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,5,operador1,estacao-operador1,60571.1,201,1,,335111.82999999996,0.196,52.62
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,6,operador2,estacao-operador2,269713.8,201,1,,604825.6299999999,0.248,51.91
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,7,operador1,estacao-operador1,196444.38,201,1,,801270.0099999999,0.3,51.72
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,8,operador2,estacao-operador2,114478.85,201,1,,915748.8599999999,0.352,52.24
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,9,operador1,estacao-operador1,187277.91,201,1,,1103026.7699999998,0.404,51.81
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,10,operador2,estacao-operador2,172859.49,201,1,,1275886.2599999998,0.457,52.35
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,11,operador1,estacao-operador1,61107.24,201,1,,1336993.4999999998,0.508,51.78
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,12,operador2,estacao-operador2,23545.86,201,1,,1360539.3599999999,0.56,51.61
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,13,operador1,estacao-operador1,109528.16,201,1,,1470067.5199999998,0.613,52.59
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,14,operador2,estacao-operador2,21266.13,201,1,,1491333.6499999997,0.664,51.81
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,15,operador1,estacao-operador1,268358.51,201,1,,1759692.1599999997,0.717,52.16
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,16,operador2,estacao-operador2,328403.78,201,1,,2088095.9399999997,0.768,51.76
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,17,operador1,estacao-operador1,11899.98,201,1,,2099995.92,0.821,52.26
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,18,operador2,estacao-operador2,228427.84,201,1,,2328423.76,0.873,52.54
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,19,operador1,estacao-operador1,46941.42,201,1,,2375365.1799999997,0.945,71.37
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,20,operador2,estacao-operador2,53957.17,201,1,,2429322.3499999996,1.0,54.92
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,21,operador1,estacao-operador1,65178.99,201,1,,2494501.34,1.06,60.43
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,22,operador2,estacao-operador2,90285.79,201,1,,2584787.13,1.115,55.06
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,23,operador1,estacao-operador1,39440.56,201,1,,2624227.69,1.168,53.08
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,24,operador2,estacao-operador2,28884.19,201,1,,2653111.88,1.22,51.67
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,25,operador1,estacao-operador1,203988.02,201,1,,2857099.9,1.271,51.25
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,26,operador2,estacao-operador2,96914.89,201,1,,2954014.79,1.324,52.98
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,27,operador1,estacao-operador1,72579.36,201,1,,3026594.15,1.378,53.99
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,28,operador2,estacao-operador2,11349.53,201,1,,3037943.6799999997,1.433,55.06
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,29,operador1,estacao-operador1,54237.09,201,1,,3092180.7699999996,1.494,60.59
+L1,Perímetro: uso legítimo,legitimo,perimetro,real,5,30,operador2,estacao-operador2,21837.56,201,1,,3114018.3299999996,1.553,58.44
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,1,1,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.01,9.36
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,1,2,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.018,8.21
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,1,3,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.026,7.97
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,1,4,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.045,19.06
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,1,5,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.054,8.28
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,2,1,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.012,11.7
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,2,2,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.02,8.38
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,2,3,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.028,7.98
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,2,4,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.036,7.83
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,2,5,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.044,7.9
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,3,1,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.009,8.51
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,3,2,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.024,14.87
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,3,3,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.032,7.93
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,3,4,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.039,7.78
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,3,5,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.048,8.16
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,4,1,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.009,8.68
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,4,2,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.017,8.0
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,4,3,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.025,7.87
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,4,4,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.033,8.08
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,4,5,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.041,7.72
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,5,1,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.009,8.77
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,5,2,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.017,8.24
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,5,3,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.025,7.78
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,5,4,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.033,7.67
+C2,ZT: computador sem certificado,ataque,zero_trust,03:00,5,5,operador1,nenhum,3000000,403,0,certificado de dispositivo ausente ou inválido,0.0,0.041,7.93
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,1,1,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.033,33.41
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,1,2,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.083,49.35
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,1,3,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.135,51.73
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,1,4,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.188,52.92
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,1,5,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.24,52.72
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,2,1,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.016,16.28
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,2,2,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.066,49.42
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,2,3,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.118,52.54
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,2,4,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.169,50.25
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,2,5,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.226,57.31
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,3,1,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.031,31.05
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,3,2,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.082,50.64
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,3,3,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.13,47.76
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,3,4,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.178,48.87
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,3,5,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.231,52.2
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,4,1,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.017,16.84
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,4,2,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.066,48.94
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,4,3,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.119,53.45
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,4,4,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.17,50.49
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,4,5,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.269,98.74
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,5,1,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.017,16.47
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,5,2,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.068,51.91
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,5,3,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.119,50.31
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,5,4,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.17,51.59
+C3,ZT: estação de outro operador,ataque,zero_trust,03:00,5,5,operador1,estacao-operador2,3000000,403,0,dispositivo não autorizado para operador1,0.0,0.218,47.91
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,1,1,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.035,35.44
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,1,2,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.087,51.94
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,1,3,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.418,330.94
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,1,4,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.431,12.19
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,1,5,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.487,56.42
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,2,1,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.016,16.31
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,2,2,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.067,50.81
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,2,3,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.213,146.2
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,2,4,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.226,12.56
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,2,5,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.277,50.87
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,3,1,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.033,32.72
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,3,2,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.087,54.42
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,3,3,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.235,147.95
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,3,4,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.244,8.37
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,3,5,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.294,50.03
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,4,1,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.017,16.72
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,4,2,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.069,52.32
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,4,3,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.205,135.39
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,4,4,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.215,10.63
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,4,5,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.267,51.43
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,5,1,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.016,16.33
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,5,2,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.071,54.32
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,5,3,operador1,estacao-operador1,3000000,403,0,fora do horário permitido; valor da transação acima do limite,0.0,0.236,165.68
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,5,4,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.249,12.25
+C4,"ZT: estação autorizada, madrugada",ataque,zero_trust,03:00,5,5,operador1,estacao-operador1,3000000,401,0,sessão revogada: operador bloqueado,0.0,0.3,51.59
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,1,operador1,estacao-operador1,900000,201,1,,900000.0,0.043,42.81
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,2,operador1,estacao-operador1,900000,201,1,,1800000.0,0.101,57.92
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,3,operador1,estacao-operador1,900000,201,1,,2700000.0,0.156,54.71
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,4,operador1,estacao-operador1,900000,201,1,,3600000.0,0.211,55.78
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,5,operador1,estacao-operador1,900000,201,1,,4500000.0,0.267,55.9
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,6,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.322,54.37
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,7,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.373,51.16
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,8,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.525,151.69
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,9,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.536,11.72
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,1,10,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.587,50.84
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,1,operador1,estacao-operador1,900000,201,1,,900000.0,0.021,21.34
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,2,operador1,estacao-operador1,900000,201,1,,1800000.0,0.08,58.25
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,3,operador1,estacao-operador1,900000,201,1,,2700000.0,0.135,54.83
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,4,operador1,estacao-operador1,900000,201,1,,3600000.0,0.192,57.6
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,5,operador1,estacao-operador1,900000,201,1,,4500000.0,0.246,53.95
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,6,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.301,54.78
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,7,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.352,51.27
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,8,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.498,145.58
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,9,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.512,14.42
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,2,10,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.561,49.06
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,1,operador1,estacao-operador1,900000,201,1,,900000.0,0.044,44.35
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,2,operador1,estacao-operador1,900000,201,1,,1800000.0,0.098,54.01
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,3,operador1,estacao-operador1,900000,201,1,,2700000.0,0.155,56.74
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,4,operador1,estacao-operador1,900000,201,1,,3600000.0,0.214,58.73
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,5,operador1,estacao-operador1,900000,201,1,,4500000.0,0.267,52.64
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,6,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.32,53.15
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,7,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.372,52.58
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,8,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.531,158.73
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,9,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.545,14.3
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,3,10,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.595,49.44
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,1,operador1,estacao-operador1,900000,201,1,,900000.0,0.094,93.62
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,2,operador1,estacao-operador1,900000,201,1,,1800000.0,0.157,62.9
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,3,operador1,estacao-operador1,900000,201,1,,2700000.0,0.215,58.21
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,4,operador1,estacao-operador1,900000,201,1,,3600000.0,0.27,55.53
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,5,operador1,estacao-operador1,900000,201,1,,4500000.0,0.326,55.4
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,6,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.379,53.66
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,7,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.432,52.2
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,8,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.59,158.08
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,9,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.601,11.13
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,4,10,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.654,53.22
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,1,operador1,estacao-operador1,900000,201,1,,900000.0,0.023,22.68
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,2,operador1,estacao-operador1,900000,201,1,,1800000.0,0.076,53.74
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,3,operador1,estacao-operador1,900000,201,1,,2700000.0,0.134,57.15
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,4,operador1,estacao-operador1,900000,201,1,,3600000.0,0.188,54.23
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,5,operador1,estacao-operador1,900000,201,1,,4500000.0,0.246,57.63
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,6,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.297,51.85
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,7,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.354,56.11
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,8,operador1,estacao-operador1,900000,403,0,valor acumulado na janela acima do limite,4500000.0,0.5,146.28
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,9,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.514,14.47
+C5,"ZT: ataque discreto, horário comercial",ataque,zero_trust,10:00,5,10,operador1,estacao-operador1,900000,401,0,sessão revogada: operador bloqueado,4500000.0,0.563,48.6
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,1,operador1,estacao-operador1,188922.05,201,1,,188922.05,0.021,21.1
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,2,operador2,estacao-operador2,165421.35,201,1,,354343.4,0.041,20.12
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,3,operador1,estacao-operador1,241047.79,201,1,,595391.1900000001,0.098,56.86
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,4,operador2,estacao-operador2,77641.89,201,1,,673033.0800000001,0.155,56.38
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,5,operador1,estacao-operador1,181573.57,201,1,,854606.6500000001,0.212,57.66
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,6,operador2,estacao-operador2,143435.07,201,1,,998041.7200000002,0.272,59.34
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,7,operador1,estacao-operador1,109592.03,201,1,,1107633.7500000002,0.327,55.76
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,8,operador2,estacao-operador2,178442.91,201,1,,1286076.6600000001,0.383,56.02
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,9,operador1,estacao-operador1,94128.46,201,1,,1380205.12,0.439,55.53
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,10,operador2,estacao-operador2,11196.57,201,1,,1391401.6900000002,0.515,75.81
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,11,operador1,estacao-operador1,139757.53,201,1,,1531159.2200000002,0.576,60.8
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,12,operador2,estacao-operador2,151666.58,201,1,,1682825.8000000003,0.632,56.36
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,13,operador1,estacao-operador1,286070.78,201,1,,1968896.5800000003,0.687,55.26
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,14,operador2,estacao-operador2,304846.77,201,1,,2273743.3500000006,0.744,56.85
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,15,operador1,estacao-operador1,80046.34,201,1,,2353789.6900000004,0.8,55.64
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,16,operador2,estacao-operador2,104563.16,201,1,,2458352.8500000006,0.855,55.02
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,17,operador1,estacao-operador1,126056.25,201,1,,2584409.1000000006,0.912,56.79
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,18,operador2,estacao-operador2,241033.67,201,1,,2825442.7700000005,0.967,54.83
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,19,operador1,estacao-operador1,49680.81,201,1,,2875123.5800000005,1.024,57.11
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,20,operador2,estacao-operador2,74128.0,201,1,,2949251.5800000005,1.079,54.73
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,21,operador1,estacao-operador1,13899.95,201,1,,2963151.5300000007,1.134,55.45
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,22,operador2,estacao-operador2,18457.49,201,1,,2981609.020000001,1.19,56.19
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,23,operador1,estacao-operador1,17332.13,201,1,,2998941.150000001,1.251,60.26
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,24,operador2,estacao-operador2,94128.58,201,1,,3093069.730000001,1.307,56.52
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,25,operador1,estacao-operador1,49414.69,201,1,,3142484.420000001,1.362,55.2
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,26,operador2,estacao-operador2,20957.86,201,1,,3163442.2800000007,1.419,56.09
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,27,operador1,estacao-operador1,72951.86,201,1,,3236394.1400000006,1.475,56.26
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,28,operador2,estacao-operador2,83150.73,201,1,,3319544.8700000006,1.533,58.07
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,29,operador1,estacao-operador1,39199.15,201,1,,3358744.0200000005,1.607,74.5
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,1,30,operador2,estacao-operador2,215398.98,201,1,,3574143.0000000005,1.663,55.54
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,1,operador1,estacao-operador1,68326.72,201,1,,68326.72,0.024,24.17
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,2,operador2,estacao-operador2,275891.13,201,1,,344217.85,0.044,20.11
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,3,operador1,estacao-operador1,16173.64,201,1,,360391.49,0.097,52.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,4,operador2,estacao-operador2,15976.03,201,1,,376367.52,0.156,58.82
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,5,operador1,estacao-operador1,98872.25,201,1,,475239.77,0.209,53.56
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,6,operador2,estacao-operador2,65651.53,201,1,,540891.3,0.267,57.5
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,7,operador1,estacao-operador1,22974.18,201,1,,563865.4800000001,0.323,55.73
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,8,operador2,estacao-operador2,47272.62,201,1,,611138.1000000001,0.38,57.11
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,9,operador1,estacao-operador1,77837.88,201,1,,688975.9800000001,0.435,55.18
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,10,operador2,estacao-operador2,163113.99,201,1,,852089.9700000001,0.49,55.23
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,11,operador1,estacao-operador1,31598.32,201,1,,883688.29,0.546,55.52
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,12,operador2,estacao-operador2,13430.9,201,1,,897119.1900000001,0.602,55.93
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,13,operador1,estacao-operador1,318236.36,201,1,,1215355.55,0.658,56.56
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,14,operador2,estacao-operador2,99298.84,201,1,,1314654.3900000001,0.714,55.9
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,15,operador1,estacao-operador1,14528.7,201,1,,1329183.09,0.77,55.46
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,16,operador2,estacao-operador2,107958.98,201,1,,1437142.07,0.826,56.46
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,17,operador1,estacao-operador1,31755.19,201,1,,1468897.26,0.882,55.55
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,18,operador2,estacao-operador2,346453.37,201,1,,1815350.63,0.939,57.28
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,19,operador1,estacao-operador1,46531.13,201,1,,1861881.7599999998,0.995,55.55
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,20,operador2,estacao-operador2,13688.81,201,1,,1875570.5699999998,1.051,55.85
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,21,operador1,estacao-operador1,19367.98,201,1,,1894938.5499999998,1.106,55.15
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,22,operador2,estacao-operador2,299161.09,201,1,,2194099.6399999997,1.162,56.25
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,23,operador1,estacao-operador1,167729.66,201,1,,2361829.3,1.217,55.25
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,24,operador2,estacao-operador2,59336.55,201,1,,2421165.8499999996,1.275,57.95
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,25,operador1,estacao-operador1,27006.89,201,1,,2448172.7399999998,1.33,54.35
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,26,operador2,estacao-operador2,12555.12,201,1,,2460727.86,1.386,56.04
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,27,operador1,estacao-operador1,138258.98,201,1,,2598986.84,1.442,55.77
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,28,operador2,estacao-operador2,206091.5,201,1,,2805078.34,1.534,92.6
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,29,operador1,estacao-operador1,13582.94,201,1,,2818661.28,1.589,54.94
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,2,30,operador2,estacao-operador2,10384.34,201,1,,2829045.6199999996,1.603,13.98
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,1,operador1,estacao-operador1,62628.32,201,1,,62628.32,0.021,20.61
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,2,operador2,estacao-operador2,22636.09,201,1,,85264.41,0.042,21.49
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,3,operador1,estacao-operador1,51960.61,201,1,,137225.02000000002,0.097,54.64
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,4,operador2,estacao-operador2,44405.34,201,1,,181630.36000000002,0.154,57.08
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,5,operador1,estacao-operador1,12759.07,201,1,,194389.43000000002,0.21,55.87
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,6,operador2,estacao-operador2,52850.3,201,1,,247239.73000000004,0.266,55.78
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,7,operador1,estacao-operador1,273144.21,201,1,,520383.94000000006,0.321,55.02
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,8,operador2,estacao-operador2,85384.99,201,1,,605768.93,0.378,57.38
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,9,operador1,estacao-operador1,141004.68,201,1,,746773.6100000001,0.434,55.73
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,10,operador2,estacao-operador2,107367.51,201,1,,854141.1200000001,0.489,55.13
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,11,operador1,estacao-operador1,75109.04,201,1,,929250.1600000001,0.546,56.95
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,12,operador2,estacao-operador2,23304.59,201,1,,952554.7500000001,0.601,54.67
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,13,operador1,estacao-operador1,76759.54,201,1,,1029314.2900000002,0.657,56.06
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,14,operador2,estacao-operador2,42468.22,201,1,,1071782.5100000002,0.713,56.5
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,15,operador1,estacao-operador1,73504.57,201,1,,1145287.0800000003,0.768,54.97
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,16,operador2,estacao-operador2,12509.49,201,1,,1157796.5700000003,0.826,57.42
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,17,operador1,estacao-operador1,288446.35,201,1,,1446242.9200000004,0.881,55.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,18,operador2,estacao-operador2,40253.29,201,1,,1486496.2100000004,0.936,55.08
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,19,operador1,estacao-operador1,20806.82,201,1,,1507303.0300000005,0.995,58.26
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,20,operador2,estacao-operador2,53416.15,201,1,,1560719.1800000004,1.049,54.13
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,21,operador1,estacao-operador1,161713.9,201,1,,1722433.0800000003,1.105,56.06
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,22,operador2,estacao-operador2,235403.52,201,1,,1957836.6000000003,1.164,59.24
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,23,operador1,estacao-operador1,154542.46,201,1,,2112379.0600000005,1.221,56.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,24,operador2,estacao-operador2,19510.29,201,1,,2131889.3500000006,1.279,57.86
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,25,operador1,estacao-operador1,21125.62,201,1,,2153014.9700000007,1.334,55.77
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,26,operador2,estacao-operador2,52023.27,201,1,,2205038.2400000007,1.392,57.22
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,27,operador1,estacao-operador1,17329.72,201,1,,2222367.960000001,1.445,53.25
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,28,operador2,estacao-operador2,227762.92,201,1,,2450130.880000001,1.501,55.9
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,29,operador1,estacao-operador1,14334.18,201,1,,2464465.060000001,1.557,55.94
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,3,30,operador2,estacao-operador2,126690.42,201,1,,2591155.480000001,1.612,55.23
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,1,operador1,estacao-operador1,47278.9,201,1,,47278.9,0.021,20.91
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,2,operador2,estacao-operador2,73218.72,201,1,,120497.62,0.04,19.22
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,3,operador1,estacao-operador1,105025.82,201,1,,225523.44,0.096,55.35
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,4,operador2,estacao-operador2,35250.97,201,1,,260774.41,0.15,53.88
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,5,operador1,estacao-operador1,132426.0,201,1,,393200.41000000003,0.206,56.05
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,6,operador2,estacao-operador2,225973.6,201,1,,619174.01,0.266,60.6
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,7,operador1,estacao-operador1,12884.4,201,1,,632058.41,0.322,55.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,8,operador2,estacao-operador2,142714.13,201,1,,774772.54,0.378,56.63
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,9,operador1,estacao-operador1,139555.14,201,1,,914327.68,0.435,57.08
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,10,operador2,estacao-operador2,17610.9,201,1,,931938.5800000001,0.49,54.42
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,11,operador1,estacao-operador1,33119.42,201,1,,965058.0000000001,0.546,56.05
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,12,operador2,estacao-operador2,11212.57,201,1,,976270.5700000001,0.602,56.28
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,13,operador1,estacao-operador1,15622.98,201,1,,991893.55,0.658,55.86
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,14,operador2,estacao-operador2,249252.91,201,1,,1241146.46,0.714,55.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,15,operador1,estacao-operador1,76695.63,201,1,,1317842.0899999999,0.77,56.66
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,16,operador2,estacao-operador2,271763.36,201,1,,1589605.4499999997,0.826,55.81
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,17,operador1,estacao-operador1,28636.63,201,1,,1618242.0799999996,0.884,57.7
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,18,operador2,estacao-operador2,12409.05,201,1,,1630651.1299999997,0.938,54.21
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,19,operador1,estacao-operador1,114501.83,201,1,,1745152.9599999997,0.994,55.97
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,20,operador2,estacao-operador2,61195.6,201,1,,1806348.5599999998,1.05,55.36
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,21,operador1,estacao-operador1,50707.1,201,1,,1857055.66,1.105,55.68
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,22,operador2,estacao-operador2,56115.97,201,1,,1913171.63,1.161,56.01
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,23,operador1,estacao-operador1,57113.89,201,1,,1970285.5199999998,1.221,59.75
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,24,operador2,estacao-operador2,10786.03,201,1,,1981071.5499999998,1.277,55.91
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,25,operador1,estacao-operador1,379578.28,201,1,,2360649.83,1.334,56.57
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,26,operador2,estacao-operador2,37370.62,201,1,,2398020.45,1.39,55.94
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,27,operador1,estacao-operador1,93831.99,201,1,,2491852.4400000004,1.445,55.51
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,28,operador2,estacao-operador2,31625.64,201,1,,2523478.0800000005,1.502,56.35
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,29,operador1,estacao-operador1,253581.09,201,1,,2777059.1700000004,1.558,56.43
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,4,30,operador2,estacao-operador2,48396.08,201,1,,2825455.2500000005,1.616,57.73
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,1,operador1,estacao-operador1,59425.36,201,1,,59425.36,0.039,39.12
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,2,operador2,estacao-operador2,72617.06,201,1,,132042.41999999998,0.06,20.62
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,3,operador1,estacao-operador1,105117.32,201,1,,237159.74,0.119,59.26
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,4,operador2,estacao-operador2,37380.99,201,1,,274540.73,0.175,56.13
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,5,operador1,estacao-operador1,60571.1,201,1,,335111.82999999996,0.232,56.27
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,6,operador2,estacao-operador2,269713.8,201,1,,604825.6299999999,0.286,54.48
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,7,operador1,estacao-operador1,196444.38,201,1,,801270.0099999999,0.342,55.58
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,8,operador2,estacao-operador2,114478.85,201,1,,915748.8599999999,0.398,56.48
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,9,operador1,estacao-operador1,187277.91,201,1,,1103026.7699999998,0.455,56.41
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,10,operador2,estacao-operador2,172859.49,201,1,,1275886.2599999998,0.512,57.11
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,11,operador1,estacao-operador1,61107.24,201,1,,1336993.4999999998,0.566,54.59
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,12,operador2,estacao-operador2,23545.86,201,1,,1360539.3599999999,0.623,56.93
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,13,operador1,estacao-operador1,109528.16,201,1,,1470067.5199999998,0.696,73.0
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,14,operador2,estacao-operador2,21266.13,201,1,,1491333.6499999997,0.755,58.96
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,15,operador1,estacao-operador1,268358.51,201,1,,1759692.1599999997,0.825,69.4
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,16,operador2,estacao-operador2,328403.78,201,1,,2088095.9399999997,0.886,61.56
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,17,operador1,estacao-operador1,11899.98,201,1,,2099995.92,0.942,55.55
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,18,operador2,estacao-operador2,228427.84,201,1,,2328423.76,0.999,57.17
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,19,operador1,estacao-operador1,46941.42,201,1,,2375365.1799999997,1.055,55.55
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,20,operador2,estacao-operador2,53957.17,201,1,,2429322.3499999996,1.11,55.12
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,21,operador1,estacao-operador1,65178.99,201,1,,2494501.34,1.166,55.73
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,22,operador2,estacao-operador2,90285.79,201,1,,2584787.13,1.224,58.36
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,23,operador1,estacao-operador1,39440.56,201,1,,2624227.69,1.278,53.74
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,24,operador2,estacao-operador2,28884.19,201,1,,2653111.88,1.335,56.87
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,25,operador1,estacao-operador1,203988.02,201,1,,2857099.9,1.39,55.18
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,26,operador2,estacao-operador2,96914.89,201,1,,2954014.79,1.451,60.68
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,27,operador1,estacao-operador1,72579.36,201,1,,3026594.15,1.508,57.32
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,28,operador2,estacao-operador2,11349.53,201,1,,3037943.6799999997,1.562,53.81
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,29,operador1,estacao-operador1,54237.09,201,1,,3092180.7699999996,1.618,55.95
+L2,ZT: uso legítimo,legitimo,zero_trust,10:00,5,30,operador2,estacao-operador2,21837.56,201,1,,3114018.3299999996,1.675,56.55
